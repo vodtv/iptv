@@ -37,7 +37,6 @@ jobs:
         rm -f CCTV1.m3u CCTV2.m3u CCTV3.m3u CCTV4.m3u CCTV5.m3u
         sed -i '1i #EXTM3U' CCTV.m3u
         sed -i '/^\s*$/d' CCTV.m3u
-       
         # 卫视源
         rm -f WSTV.m3u && touch WSTV.m3u
         wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u -O WSTV1.m3u &&  sed -i -n '/卫视频道/,+1p' WSTV1.m3u
