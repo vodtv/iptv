@@ -1,0 +1,113 @@
+name: Update
+
+on:
+  watch:
+    types: [started]
+  schedule:
+    - cron: 0,30 * * * *
+
+env:
+  TZ: Asia/Shanghai
+
+jobs:
+  Update:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+
+    - name: GetTime
+      id: date
+      run: echo "::set-output name=date::$(date +'%Y-%m-%d %H:%M:%S CST')"
+
+    - name: Update
+      run: |
+        # 央视源
+        rm -f CCTV.m3u && touch CCTV.m3u
+        wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u -O CCTV1.m3u &&  sed -i -n '/央视/,+1p' CCTV1.m3u
+        wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/hustv6.m3u -O CCTV2.m3u &&  sed -i -n '/央视频道/,+1p' CCTV2.m3u
+        wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O CCTV3.m3u &&  sed -i -n '/央视频道/,+1p' CCTV3.m3u
+        wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6plus.m3u -O CCTV4.m3u &&  sed -i -n '/央视频道/,+1p' CCTV4.m3u
+        wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/v6.m3u -O CCTV5.m3u &&  sed -i -n '/央视频道/,+1p' CCTV5.m3u
+        cat CCTV1.m3u >> CCTV.m3u
+        cat CCTV2.m3u >> CCTV.m3u
+        cat CCTV3.m3u >> CCTV.m3u
+        cat CCTV4.m3u >> CCTV.m3u
+        cat CCTV5.m3u >> CCTV.m3u
+        rm -f CCTV1.m3u CCTV2.m3u CCTV3.m3u CCTV4.m3u CCTV5.m3u
+        sed -i '1i #EXTM3U' CCTV.m3u
+        sed -i '/^\s*$/d' CCTV.m3u
+        # 卫视源
+        rm -f WSTV.m3u && touch WSTV.m3u
+        wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u -O WSTV1.m3u &&  sed -i -n '/卫视频道/,+1p' WSTV1.m3u
+        wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/hustv6.m3u -O WSTV2.m3u &&  sed -i -n '/卫视频道/,+1p' WSTV2.m3u
+        wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O WSTV3.m3u &&  sed -i -n '/卫视频道/,+1p' WSTV3.m3u
+        wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6plus.m3u -O WSTV4.m3u &&  sed -i -n '/卫视频道/,+1p' WSTV4.m3u
+        wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/v6.m3u -O WSTV5.m3u &&  sed -i -n '/卫视频道/,+1p' WSTV5.m3u
+        cat WSTV1.m3u >> WSTV.m3u
+        cat WSTV2.m3u >> WSTV.m3u
+        cat WSTV3.m3u >> WSTV.m3u
+        cat WSTV4.m3u >> WSTV.m3u
+        cat WSTV5.m3u >> WSTV.m3u
+        rm -f WSTV1.m3u WSTV2.m3u WSTV3.m3u WSTV4.m3u WSTV5.m3u
+        sed -i '1i #EXTM3U' WSTV.m3u
+        sed -i '/^\s*$/d' WSTV.m3u
+        
+        # NewTV  
+        rm -f NEWTV.m3u && touch NEWTV.m3u
+        wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6plus.m3u -O NEWTV1.m3u && sed -i -n '/NewTV系列/,+1p' NEWTV1.m3u
+        wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/v6.m3u -O NEWTV2.m3u && sed -i -n '/NewTV系列/,+1p' NEWTV2.m3u
+        cat NEWTV1.m3u >> NEWTV.m3u
+        cat NEWTV2.m3u >> NEWTV.m3u
+        rm -f NEWTV1.m3u NEWTV2.m3u
+        sed -i '1i #EXTM3U' NEWTV.m3u
+        sed -i '/^\s*$/d' NEWTV.m3u
+        # 超清源  
+        rm -f HDTV.m3u && touch HDTV.m3u 
+        wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6plus.m3u -O HDTV1.m3u && sed -i -n '/超清频道/,+1p' HDTV1.m3u
+        cat HDTV1.m3u >> HDTV.m3u
+        rm -f HDTV1.m3u
+        sed -i '1i #EXTM3U' HDTV.m3u
+        sed -i '/^\s*$/d' HDTV.m3u
+        # 成人直播源
+        rm -f XXXTV.m3u && touch XXXTV.m3u
+        wget http://adultiptv.net/chs.m3u -O XXXTV1.m3u 
+        sed -i 's/XXX/成人频道/' XXXTV1.m3u
+        sed -i 's/AdultIPTV.net //g' XXXTV1.m3u
+        cat XXXTV1.m3u >> XXXTV.m3u
+        rm -f XXXTV1.m3u
+        sed -i '1i #EXTM3U' XXXTV.m3u
+        sed -i '/^\s*$/d' XXXTV.m3u
+        # 成人视频源
+        rm -f XXXVOD.m3u && touch XXXVOD.m3u
+        wget https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u -O XXXVOD1.txt
+        cat XXXVOD1.txt >> XXXVOD.m3u
+        rm -f XXXVOD1.txt
+        sed -i '/^\s*$/d' XXXVOD.m3u
+        # 整合源
+        rm -f IPTV.m3u && touch IPTV.m3u
+        cat CCTV.m3u >> IPTV.m3u
+        cat WSTV.m3u >> IPTV.m3u
+        cat NEWTV.m3u >> IPTV.m3u
+        cat HDTV.m3u >> IPTV.m3u
+        cat XXXTV.m3u >> IPTV.m3u
+        cat XXXVOD.m3u >> IPTV.m3u
+        sed -i '/#EXTM3U/d' IPTV.m3u
+        sed -i '1i #EXTM3U' IPTV.m3u
+        sed -i '/^\s*$/d' IPTV.m3u
+        # 节目源
+        rm -f EPG.xml && wget https://epg.112114.xyz/pp.xml -O EPG.xml
+        
+        # README
+        echo "IPTV节目源更新于 ${{ steps.date.outputs.date }}" > README.md
+    - name: Clean
+      run: |
+        git config --local user.email "2236639958@qq.com"
+        git config --local user.name "qq2236629958"
+        git checkout --orphan latest_branch
+        git add -A
+        git commit -am "${{ steps.date.outputs.date }}"
+        git branch -D main
+        git branch -m main
+    - name: Push
+      run: git push -f origin main
