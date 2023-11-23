@@ -1,0 +1,184 @@
+name: Update
+
+on:
+  watch:
+    types: [started]
+  schedule:
+   - cron:  '0 0,8 * * *'
+  workflow_dispatch:
+
+env:
+  TZ: Asia/Shanghai
+
+jobs:
+  Update:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+      
+    - name: GetTime
+      id: date
+      run: echo "GetTime=$(date +'%Y-%m-%d %H:%M:%S CST')" >> "$GITHUB_OUTPUT" 
+
+    - name: Update
+      run: |
+        # 央视源
+        rm -f CCTV.m3u && touch CCTV.m3u
+        wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u -O CCTV1.m3u &&  sed -i -n '/央视/,+1p' CCTV1.m3u
+        wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O CCTV2.m3u &&  sed -i -n '/央视频道/,+1p' CCTV2.m3u
+        wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/v6.m3u -O CCTV3.m3u &&  sed -i -n '/央视频道/,+1p' CCTV3.m3u
+        cat CCTV1.m3u >> CCTV.m3u
+        cat CCTV2.m3u >> CCTV.m3u
+        cat CCTV3.m3u >> CCTV.m3u
+        rm -f CCTV1.m3u CCTV2.m3u CCTV3.m3u
+        sed -i '1i #EXTM3U' CCTV.m3u
+        sed -i '/^\s*$/d' CCTV.m3u
+        
+        # 卫视源
+        rm -f WSTV.m3u && touch WSTV.m3u
+        wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u -O WSTV1.m3u &&  sed -i -n '/卫视频道/,+1p' WSTV1.m3u
+        wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O WSTV2.m3u &&  sed -i -n '/卫视频道/,+1p' WSTV2.m3u
+        wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/v6.m3u -O WSTV3.m3u &&  sed -i -n '/卫视频道/,+1p' WSTV3.m3u
+        cat WSTV1.m3u >> WSTV.m3u
+        cat WSTV2.m3u >> WSTV.m3u
+        cat WSTV3.m3u >> WSTV.m3u
+        rm -f WSTV1.m3u WSTV2.m3u WSTV3.m3u
+        sed -i '1i #EXTM3U' WSTV.m3u
+        sed -i '/^\s*$/d' WSTV.m3u
+
+        # 数字频道
+        rm -f SZTV.m3u && touch SZTV.m3u 
+        wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u -O SZTV1.m3u && sed -i -n '/数字/,+1p' SZTV1.m3u
+        cat SZTV1.m3u >> SZTV.m3u
+        rm -f SZTV1.m3u GLTV1.m3u GLTV1.m3u
+        sed -i '1i #EXTM3U' SZTV.m3u 
+        sed -i '/^\s*$/d' SZTV.m3u
+
+        # 地方频道
+        rm -f DFTV.m3u && touch DFTV.m3u 
+        wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u -O DFTV1.m3u && sed -i -n '/地方/,+1p' DFTV1.m3u
+        cat DFTV1.m3u >> DFTV.m3u
+        rm -f DFTV1.m3u 
+        sed -i '1i #EXTM3U' DFTV.m3u 
+        sed -i '/^\s*$/d' DFTV.m3u
+        
+        # 百视电视
+        rm -f BSTV.m3u && touch BSTV.m3u 
+        wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u -O BSTV1.m3u && sed -i -n '/百视/,+1p' BSTV1.m3u
+        cat BSTV1.m3u >> BSTV.m3u
+        rm -f BSTV1.m3u 
+        sed -i '1i #EXTM3U' BSTV.m3u 
+        sed -i '/^\s*$/d' BSTV.m3u
+        
+        # 国际电视
+        rm -f GJTV.m3u && touch GJTV.m3u 
+        wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u -O GJTV1.m3u && sed -i -n '/国际/,+1p' GJTV1.m3u
+        cat GJTV1.m3u >> GJTV.m3u
+        rm -f GJTV1.m3u 
+        sed -i '1i #EXTM3U' GJTV.m3u 
+        sed -i '/^\s*$/d' GJTV.m3u
+        
+        # NewTV  
+        rm -f NEWTV.m3u && touch NEWTV.m3u
+        wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O NEWTV1.m3u && sed -i -n '/NewTV系列/,+1p' NEWTV1.m3u
+        wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/v6.m3u -O NEWTV2.m3u && sed -i -n '/NewTV系列/,+1p' NEWTV2.m3u
+        cat NEWTV1.m3u >> NEWTV.m3u
+        cat NEWTV2.m3u >> NEWTV.m3u
+        rm -f NEWTV1.m3u NEWTV2.m3u
+        sed -i '1i #EXTM3U' NEWTV.m3u
+        sed -i '/^\s*$/d' NEWTV.m3u
+        
+        # 海南源
+        rm -f CN-HN.txt && touch CN-HN.txt
+        wget https://angtv.cc/list/?src=mrpqgzuzry.link.sczhgx.com:1313 -O CN-HN1.txt && sed -i 's/<br>/\r\n/gi' CN-HN1.txt
+        wget https://angtv.cc/list/?src=041f5acf49e1f598-web.link.sczhgx.com:1313 -O CN-HN2.txt && sed -i 's/<br>/\r\n/gi' CN-HN2.txt
+        wget https://angtv.cc/list/?src=2c2b006847e620e6-web.soglink.sczhgx.com:1313 -O CN-HN3.txt && sed -i 's/<br>/\r\n/gi' CN-HN3.txt
+        cat CN-HN1.txt >> CN-HN.txt
+        cat CN-HN2.txt >> CN-HN.txt
+        cat CN-HN3.txt >> CN-HN.txt
+        rm -f CN-HN1.txt CN-HN2.txt CN-HN3.txt
+
+        # 福建源
+        rm -f CN-FJ.txt && touch CN-FJ.txt
+        wget https://angtv.cc/list/?src=183.250.157.35:8880 -O CN-FJ1.txt
+        sed -i 's/<br>/\r\n/gi' CN-FJ1.txt
+        cat CN-FJ1.txt >> CN-FJ.txt
+        rm -f CN-FJ1.txt
+        
+        # 辽宁源
+        rm -f CN-LN.txt && touch CN-LN.txt
+        wget https://angtv.cc/list/?src=218.24.193.146:808 -O CN-LN1.txt && sed -i 's/<br>/\r\n/gi' CN-LN1.txt
+        cat CN-LN1.txt >> CN-LN.txt
+        rm -f CN-LN1.txt
+        
+        # GITHUB HOSTS
+        rm -f GH-HOSTS && touch GH-HOSTS
+        wget https://raw.githubusercontent.com/ineo6/hosts/master/hosts -O  GH-HOSTS1.txt
+        cat GH-HOSTS1.txt >> GH-HOSTS
+        rm -f GH-HOSTS1.txt
+
+        # 吉林源
+        rm -f CN-JL.txt && touch CN-JL.txt
+        wget https://angtv.cc/list/?src=124.234.172.107:9901 -O CN-JL1.txt && sed -i 's/<br>/\r\n/gi' CN-JL1.txt
+        wget https://angtv.cc/list/?src=175.31.21.146:4480 -O CN-JL2.txt && sed -i 's/<br>/\r\n/gi' CN-JL2.txt
+        cat CN-JL1.txt >> CN-JL.txt
+        cat CN-JL2.txt >> CN-JL.txt
+        rm -f CN-JL1.txt CN-JL2.txt
+
+        # 成人直播源
+        rm -f AdultTv.m3u && touch AdultTv.m3u
+        wget http://adultiptv.net/chs.m3u -O AdultTv1.m3u 
+        sed -i 's/XXX/成人频道/' AdultTv1.m3u
+        sed -i 's/AdultIPTV.net //g' AdultTv1.m3u
+        cat AdultTv1.m3u >> AdultTv.m3u
+        rm -f AdultTv1.m3u
+        sed -i '/^\s*$/d' AdultTv.m3u
+        
+        # 小姐姐视频源
+        rm -f XJJ.txt && touch XJJ.txt
+        wget https://gitcode.net/raw/agit-ccy-v/-/raw/master/xjj/2000.txt  -O XJJ1.txt
+        wget https://gitcode.net/raw/agit-ccy-v/-/raw/master/xjj/6300.txt  -O XJJ2.txt
+        wget https://gitcode.net/raw/agit-ccy-v/-/raw/master/xjj/8000.txt  -O XJJ3.txt
+        cat XJJ1.txt >> XJJ.txt
+        cat XJJ2.txt >> XJJ.txt
+        cat XJJ3.txt >> XJJ.txt
+        rm -f XJJ1.txt XJJ2.txt XJJ3.txt
+        
+        # TikTok视频源
+        rm -f TIKTOK.json && touch TIKTOK.json
+        wget https://cdn.jsdelivr.net/gh/cnly1987/cdn@master/tiktok.json -O TIKTOK1.json
+        cat TIKTOK1.json >> TIKTOK.json
+        rm -f TIKTOK1.json
+        sed -i '/^\s*$/d' TIKTOK.json
+        
+        # 成人视频源
+        rm -f AdultVod.m3u && touch AdultVod.m3u
+        wget https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u -O AdultVod1.txt
+        cat AdultVod1.txt >> AdultVod.m3u
+        rm -f AdultVod1.txt
+        sed -i '/^\s*$/d' AdultVod.m3u
+        
+        # 整合源
+        rm -f IPTV.m3u && touch IPTV.m3u
+        cat CCTV.m3u >> IPTV.m3u
+        cat WSTV.m3u >> IPTV.m3u
+        cat NEWTV.m3u >> IPTV.m3u
+        cat HDTV.m3u >> IPTV.m3u
+        sed -i '/#EXTM3U/d' IPTV.m3u
+        sed -i '1i #EXTM3U' IPTV.m3u
+        sed -i '/^\s*$/d' IPTV.m3u
+        
+        # 节目源
+        rm -f EPG.xml && wget https://epg.112114.xyz/pp.xml -O EPG.xml
+    - name: Clean
+      run: |
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config user.name "github-actions[bot]"
+        git checkout --orphan latest_branch
+        git add -A
+        git commit -am "IPTV 资源更新于 ${{ steps.date.outputs.GetTime }}"
+        git branch -D main
+        git branch -m main
+    - name: Push
+      run: git push -f origin main
