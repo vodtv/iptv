@@ -1,44 +1,24 @@
 name: update schedule
-
 on:
     schedule:
-        - cron: "0 */3 * * *"
-
+        - cron: "0 */2 * * *"
 jobs:
     build:
         runs-on: ubuntu-latest
-
-        strategy:
-            matrix:
-                node-version: [18.x]
-                # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
-
         steps:
             - uses: actions/checkout@v3
-            - name: Use Node.js ${{ matrix.node-version }}
-              uses: actions/setup-node@v3
+            - uses: actions/setup-node@v3
               with:
-                  node-version: ${{ matrix.node-version }}
-                  cache: "pnpm"
+                  node-version: '18.18.2'
+                  cache: "npm"
             - name: install yarn
-              run: pnpm install yarn -g
+              run: npm install yarn -g
             - run: yarn install
             - run: yarn build
             - run: yarn run m3u
-
-            - name: "Jekyll theme"
-              run: mv ./_config.temp.yml ./m3u/_config.yml
-
             - name: Deploy
               uses: peaceiris/actions-gh-pages@v3
               with:
                   github_token: ${{ secrets.GITHUB_TOKEN }}
                   publish_dir: ./m3u
-                  enable_jekyll: true
-                  cname: vodtv.cn
-
-            - name: discord
-              uses: sebastianpopp/discord-action@releases/v2
-              with:
-                  webhook: ${{ secrets.DISCORD_WEBHOOK }}
-                  message: ${{ github.repository }} has been successfullly updated, see https://vodtv.cn/iptv to get more.
+                  cname: vodtv.cn/iptv
