@@ -19,9 +19,9 @@ jobs:
               uses: actions/setup-node@v3
               with:
                   node-version: ${{ matrix.node-version }}
-                  cache: "pnpm"
+                  cache: "npm"
             - name: install yarn
-              run: pnpm install yarn -g
+              run: npm install yarn -g
             - run: yarn install
             - run: yarn build
             - run: yarn run m3u
