@@ -32,9 +32,3 @@ jobs:
                   github_token: ${{ secrets.GITHUB_TOKEN }}
                   publish_dir: ./m3u
                   cname: vodtv.cn
-
-            - name: discord
-              uses: sebastianpopp/discord-action@releases/v2
-              with:
-                  webhook: ${{ secrets.DISCORD_WEBHOOK }}
-                  message: ${{ github.repository }} has been successfullly updated, see https://vodtv.cn/iptv to get more.
