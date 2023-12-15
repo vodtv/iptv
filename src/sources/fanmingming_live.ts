@@ -53,4 +53,10 @@ export const fanmingming_sources: TSources = [
     url: "https://cdn.jsdelivr.net/gh/fanmingming/live/tv/m3u/v6.m3u",
     filter: iptv_org_filter,
   },
+  {
+    name: "China Adult",
+    f_name: "cn_adult",
+    url: "https://cdn.jsdelivr.net/gh/YanG-1989/m3u/Adult.m3u",
+    filter: iptv_org_filter,
+  }
 ];
