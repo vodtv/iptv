@@ -5,55 +5,6 @@
 <h3>🔗 https://vodtv.cn/iptv</h3>
 </div>
 
----
-
-- 🚀 [怎么用？](#怎么用)
-- 📺 [播放列表](#播放列表)
-- 🗓 [节目单](#节目单)
-
-## 🚀 怎么用？
-
-只需将以下链接之一插入任何支持实时流式传输的视频播放器，然后按打开即可。
-
-## 📺 播放列表
-
-| channel | url | list | count |
-| ------- | --- | ---- | ----- |
-
-<!-- channels_here -->
-
-## 🛠️ 工具
-
-- ⚡️ RAW 加速
-<table>
-  <thead>
-    <tr>
-      <th>使用说明</th>
-      <th>使用举例 </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>将原网址替换cdn.jsdelivr.net</td>
-      <td>https://cdn.jsdelivr.net/gh/vodtv/iptv/IPTV.m3u</td>
-    </tr>
-     <tr>
-      <td>将原网址替换cdn.gitmirror.com</td>
-      <td>https://cdn.gitmirror.com/gh/vodtv/iptv/main/IPTV.m3u</td>
-    </tr>
-    <tr>
-      <td>原网址前加ghproxy.com</td>
-      <td>https://ghproxy.com/https://raw.githubusercontent.com/vodtv/iptv/main/IPTV.m3u</td>
-    </tr>
-  </tbody>
-</table>
-
-- 📆EPG 接口地址：
-  - http://vodtv.cn/iptv/EPG.xml
-  - https://cdn.jsdelivr.net/gh/vodtv/iptv/EPG.xml
-  - https://cdn.gitmirror.com/gh/vodtv/iptv/main/EPG.xml
-  - https://cdn.statically.io/gh/vodtv/iptv/main/EPG.xml
-  - https://ghproxy.com/https://raw.githubusercontent.com/vodtv/iptv/main/EPG.xml
 
 ## 📖 说明
 
