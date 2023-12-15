@@ -23,5 +23,3 @@ jobs:
                   github_token: ${{ secrets.GITHUB_TOKEN }}
                   publish_dir: ./m3u
                   cname: vodtv.cn
-                  enable_jekyll: true
-                  keep_files: true
