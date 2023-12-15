@@ -1,4 +1,4 @@
-name: Update
+name: Update Deploy
 
 on:
   push:
@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
   
 jobs:
-    Update:
+   Update:
         runs-on: ubuntu-latest
         steps:
             - name: Checkout
@@ -18,12 +18,12 @@ jobs:
             - name: Use Node.js 
               uses: actions/setup-node@v3
               with:
-                  cache: "pnpm"
-            - name: install pnpm
-              run: npm install pnpm -g
-            - run: pnpm install
-            - run: pnpm run build
-            - run: pnpm run m3u
+                  cache: "npm"
+            - name: install yarn
+              run: npm install yarn -g
+            - run: yarn install
+            - run: yarn build
+            - run: yarn run m3u
             
             - name: Deploy
               uses: peaceiris/actions-gh-pages@v3
