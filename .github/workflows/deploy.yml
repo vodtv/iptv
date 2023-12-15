@@ -1,7 +1,10 @@
 name: update
-on:
-    push:
-        branches: [main]
+on:  
+  watch:
+    types: [started]
+  schedule:
+   - cron:  '0 0,8 * * *'
+  workflow_dispatch:
 jobs:
     build:
         runs-on: ubuntu-latest
