@@ -66,7 +66,7 @@ export const updateReadme = (
     `${sources
       .map(
         (, idx) =>
-          `| ${s.name} | <https://vodtv.cn/iptv/${
+          `| ${s.name} | <https://vodtv.cn/iptv//${
             s.f_name
           }.m3u> <br> <https://vodtv.cn/iptv/txt/${s.f_name}.txt> | [List for ${
             s.name
