@@ -14,10 +14,9 @@ jobs:
               with:
                   node-version: '18.18.2'
                   cache: "npm"
-            - run: npm install pnpm -g
             - run: npm install 
-            - run: pnpm run build
-            - run: pnpm run m3u
+            - run: npm run build
+            - run: npm run m3u
             - name: Deploy
               uses: peaceiris/actions-gh-pages@v3
               with:
