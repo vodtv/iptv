@@ -20,8 +20,9 @@ jobs:
                 node-version: [18.x]
         steps:
             - name: Checkout
-               uses: actions/checkout@v3
-            - run: npm install yarn -g
+              uses: actions/checkout@v3               
+            - name: install yarn
+              run: npm install yarn -g
             - run: yarn install
             - run: yarn build
             - run: yarn run m3u
