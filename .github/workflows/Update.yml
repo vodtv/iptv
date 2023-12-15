@@ -24,8 +24,7 @@ jobs:
               with:
                   node-version: ${{ matrix.node-version }}
                   cache: "npm"
-            - name: install
-              run: npm install
+            - run: npm install
             - run: npm run build
             - run: npm run m3u
             
