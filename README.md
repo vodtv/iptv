@@ -11,80 +11,32 @@
 - 📺 [播放列表](#播放列表)
 - 🗓 [节目单](#节目单)
 
-## 怎么用？
+## 🚀 怎么用？
 
 只需将以下链接之一插入任何支持实时流式传输的视频播放器，然后按打开即可。
 
 ## 📺 播放列表
 
-播放列表的多个版本在分组方式上有所不同。
+| channel | url | list | count |
+| ------- | --- | ---- | ----- |
 
-<table>
-  <thead>
-    <tr>
-      <th>分类名称</th>
-      <th>RAW地址 </th>
-    </tr>
-  </thead>
-  <tbody>
-     <tr>
-      <td>网络电视</td>
-      <td>https://raw.githubusercontent.com/vodtv/iptv/main/IPTV.m3u</td>
-     </tr>
-     <tr>
-      <td>中国频道</td>
-      <td>https://raw.githubusercontent.com/vodtv/iptv/main/CNTV.m3u</td>
-    </tr>
-    <tr>
-      <td>央视频道</td>
-      <td>https://raw.githubusercontent.com/vodtv/iptv/main/CCTV.m3u</td>
-    </tr>
-    <tr>
-      <td>卫视频道</td>
-      <td>https://raw.githubusercontent.com/vodtv/iptv/main/WSTV.m3u</td>
-    </tr>
-    <tr>
-      <td>数字频道</td>
-      <td>https://raw.githubusercontent.com/vodtv/iptv/main/SZTV.m3u</td>
-    </tr>
-    <tr>
-      <td>地方频道</td>
-      <td>https://raw.githubusercontent.com/vodtv/iptv/main/DFTV.m3u</td>
-    </tr>
-    <tr>
-      <td>港澳频道</td>
-      <td>https://raw.githubusercontent.com/vodtv/iptv/main/HKTV.m3u</td>
-    </tr>
-    <tr>
-      <td>国际频道</td>
-      <td>https://raw.githubusercontent.com/vodtv/iptv/main/GJTV.m3u</td>
-    </tr>
-     <tr>
-      <td>福建移动</td>
-      <td>https://raw.githubusercontent.com/vodtv/iptv/main/CN-FJ.TXT</td>
-    </tr>
-    <tr>
-      <td>吉林移动</td>
-      <td>https://raw.githubusercontent.com/vodtv/iptv/main/CN-JL.TXT</td>
-    </tr>
-     <tr>
-      <td>辽宁移动</td>
-      <td>https://raw.githubusercontent.com/vodtv/iptv/main/CN-LN.TXT</td>
-    </tr>
-     <tr>
-      <td>谷豆代理</td>
-      <td>https://raw.githubusercontent.com/vodtv/iptv/main/GDTV.csv</td>
-    </tr>
-     <tr>
-      <td>成人直播</td>
-      <td>https://raw.githubusercontent.com/vodtv/iptv/main/AdultTv.m3u</td>
-    </tr>
-    <tr>
-      <td>成人点播</td>
-      <td>https://raw.githubusercontent.com/vodtv/iptv/main/AdultVod.m3u</td>
-    </tr>
-  </tbody>
-</table>
+| China | <https://vodtv.cn/iptv//cn.m3u> <br> <https://vodtv.cn/iptv/txt/cn.txt> | [List for China](https://vodtv.cn/iptv/list/cn.list) | 174 |
+| China National | <https://vodtv.cn/iptv//cn_n.m3u> <br> <https://vodtv.cn/iptv/txt/cn_n.txt> | [List for China National](https://vodtv.cn/iptv/list/cn_n.list) | 8 |
+| China Country | <https://vodtv.cn/iptv//cn_c.m3u> <br> <https://vodtv.cn/iptv/txt/cn_c.txt> | [List for China Country](https://vodtv.cn/iptv/list/cn_c.list) | 187 |
+| China Province | <https://vodtv.cn/iptv//cn_p.m3u> <br> <https://vodtv.cn/iptv/txt/cn_p.txt> | [List for China Province](https://vodtv.cn/iptv/list/cn_p.list) | 36 |
+| All | <https://vodtv.cn/iptv//all.m3u> <br> <https://vodtv.cn/iptv/txt/all.txt> | [List for All](https://vodtv.cn/iptv/list/all.list) | 1775 |
+| China domainv6 | <https://vodtv.cn/iptv//cn_domainv6.m3u> <br> <https://vodtv.cn/iptv/txt/cn_domainv6.txt> | [List for China domainv6](https://vodtv.cn/iptv/list/cn_domainv6.list) | 98 |
+| China ipv6 | <https://vodtv.cn/iptv//cn_ipv6.m3u> <br> <https://vodtv.cn/iptv/txt/cn_ipv6.txt> | [List for China ipv6](https://vodtv.cn/iptv/list/cn_ipv6.list) | 154 |
+| China v6 | <https://vodtv.cn/iptv//cn_v6.m3u> <br> <https://vodtv.cn/iptv/txt/cn_v6.txt> | [List for China v6](https://vodtv.cn/iptv/list/cn_v6.list) | 113 |
+| YueChan_Live IPTV | <https://vodtv.cn/iptv//ycl_iptv.m3u> <br> <https://vodtv.cn/iptv/txt/ycl_iptv.txt> | [List for YueChan_Live IPTV](https://vodtv.cn/iptv/list/ycl_iptv.list) | update failed |
+| iptv.org All | <https://vodtv.cn/iptv//o_all.m3u> <br> <https://vodtv.cn/iptv/txt/o_all.txt> | [List for iptv.org All](https://vodtv.cn/iptv/list/o_all.list) | 3827 |
+| iptv.org China | <https://vodtv.cn/iptv//o_cn.m3u> <br> <https://vodtv.cn/iptv/txt/o_cn.txt> | [List for iptv.org China](https://vodtv.cn/iptv/list/o_cn.list) | 43 |
+| iptv.org stream China | <https://vodtv.cn/iptv//o_s_cn.m3u> <br> <https://vodtv.cn/iptv/txt/o_s_cn.txt> | [List for iptv.org stream China](https://vodtv.cn/iptv/list/o_s_cn.list) | 491 |
+| iptv.org stream China 112114 | <https://vodtv.cn/iptv//o_s_cn_112114.m3u> <br> <https://vodtv.cn/iptv/txt/o_s_cn_112114.txt> | [List for iptv.org stream China 112114](https://vodtv.cn/iptv/list/o_s_cn_112114.list) | 18 |
+| iptv.org stream China CCTV | <https://vodtv.cn/iptv//o_s_cn_cctv.m3u> <br> <https://vodtv.cn/iptv/txt/o_s_cn_cctv.txt> | [List for iptv.org stream China CCTV](https://vodtv.cn/iptv/list/o_s_cn_cctv.list) | 22 |
+| iptv.org stream China CGTN | <https://vodtv.cn/iptv//o_s_cn_cgtn.m3u> <br> <https://vodtv.cn/iptv/txt/o_s_cn_cgtn.txt> | [List for iptv.org stream China CGTN](https://vodtv.cn/iptv/list/o_s_cn_cgtn.list) | 6 |
+
+Updated at **Fri Dec 15 2023 08:25:17 GMT+0000 (Coordinated Universal Time)**
 
 ## 🛠️ 工具
 
