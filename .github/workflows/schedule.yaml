@@ -1,11 +1,7 @@
-<<<<<<< HEAD
-name: update
-=======
-name: update script
->>>>>>> 466b3580b739f7dcdb4f7e9081bf73709966c9bd
+name: update schedule
 on:
-    push:
-        branches: [main]
+    schedule:
+        - cron: "0 */2 * * *"
 jobs:
     build:
         runs-on: ubuntu-latest
