@@ -18,7 +18,7 @@
 | 12 | [BD]cctv4[ipv6] | [[BD]cctv4[ipv6]](https://epg.pw/stream/5ea26961bbc8690cbd372a194e8801249644123feab6354e1f2cdd2b8a0026ca.m3u8) |
 | 13 | [BD]cctv-5[ipv6] | [[BD]cctv-5[ipv6]](https://epg.pw/stream/0cebf04f8ced719321d379ebea3e3cb758aa2bb1a1ac7fd14c84ba6dc3f243dc.m3u8) |
 | 14 | [BD]cctv 5 | [[BD]cctv 5](https://epg.pw/stream/bea9cd814987adc99d80a9c5d4809e8670c99b9797c2abcacd77ab8459792df9.m3u8) |
-| 15 | [BD]cctv5+[ipv6] | [[BD]cctv5+[ipv6]](https://epg.pw/stream/c8560b706d9c7cb02b8b2a59a2c11a8b3d27768b932893d7d46084a95db47d57.m3u8) |
+| 15 | [BD]cctv5+ | [[BD]cctv5+](https://epg.pw/stream/3a46ab2e35791a2ab555f708c1f791b15eb6f249405d9ce255ef11e78eb16f5b.m3u8) |
 | 16 | [BD]cctv6[ipv6] | [[BD]cctv6[ipv6]](https://epg.pw/stream/7bbfe5fb8392af3f4ffdc18217c886d0937de05315ed7980dc17d9578d4411ac.m3u8) |
 | 17 | [BD]cctv7[ipv6] | [[BD]cctv7[ipv6]](https://epg.pw/stream/085cc8320b47039f91c89f261b3bde134c04438bf58155988cdd2120c8ae5c1c.m3u8) |
 | 18 | [BD]cctv8 | [[BD]cctv8](https://epg.pw/stream/9e5ef6be8ac32d23db431bdc8d9d49531b4bdf96d53db08dd102919b70f12e88.m3u8) |
@@ -97,7 +97,7 @@
 | 91 | [BD]早期教育 | [[BD]早期教育](https://epg.pw/stream/700e053a177a2edf245bc06b20b07efc7c8467d1a0d7acd6662cce25ef1fe633.ctv) |
 | 92 | [BD]晋城公共 | [[BD]晋城公共](https://epg.pw/stream/b7f4f32a1638a3b6250279b309453a5076b69acd3e4a02fb4d092e291fda15d1.m3u8) |
 | 93 | [BD]东南卫视 | [[BD]东南卫视](https://epg.pw/stream/93a8f67f0f3354496b9a612649d40aca459161284ffda09dd02506f115a7ce38.ctv) |
-| 94 | [HD]林正英 | [[HD]林正英](https://epg.pw/stream/f47a03ed2446c13957a1b49048fe7a761f769a697c9e324a897de5d6a02792b8.ctv) |
+| 94 | [SD]林正英 | [[SD]林正英](https://epg.pw/stream/f47a03ed2446c13957a1b49048fe7a761f769a697c9e324a897de5d6a02792b8.ctv) |
 | 95 | [SD]枣庄公共频道 | [[SD]枣庄公共频道](https://epg.pw/stream/ba49d45f34e3d048196c5f4a26950f4ea2e3db34f08caced49d49efcf417d9ef.m3u8) |
 | 96 | [SD]枣庄新闻综合 | [[SD]枣庄新闻综合](https://epg.pw/stream/c96d12ec316e8297973a210e94860e269e8797986e6a6223f3be444387c32341.m3u8) |
 | 97 | [VGA]梨园频道 | [[VGA]梨园频道](https://epg.pw/stream/7c85d291d0baca49fa26ef16c9499272c90467f71cb1e8d0da27f4f73ffc9c11.m3u8) |
@@ -179,4 +179,4 @@
 | 173 | [SD]黑龙江公共农业 | [[SD]黑龙江公共农业](https://epg.pw/stream/d4bc9942241f1c893fad50ece90abfce425419abf78dc318325058f860b1df11.m3u8) |
 | 174 | [BD]黑龙江卫视 8m | [[BD]黑龙江卫视 8m](https://epg.pw/stream/53cf5f9b0b328e1c40de1fc5d4aac8926a4772f9beeddad01f8a3350be87e5f1.ctv) |
 
-Updated at **Fri Dec 15 2023 09:08:53 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Dec 15 2023 15:27:46 GMT+0000 (Coordinated Universal Time)**
