@@ -1,4 +1,4 @@
-China v6,#genre#
+fanmingming/live v6,#genre#
 CCTV-1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
 CCTV-2,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
 CCTV-3,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8

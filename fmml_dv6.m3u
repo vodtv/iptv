@@ -33,6 +33,8 @@ http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001338/index.m3u8
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001248/index.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001241/index.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克 4K
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001258/index.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道",CGTN英语
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001058/index.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
@@ -181,6 +183,8 @@ http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001153/index.m3u8
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001154/index.m3u8
 #EXTINF:-1 tvg-id="东方购物" tvg-name="东方购物" tvg-logo="https://live.fanmingming.com/tv/东方购物.png" group-title="购物频道",东方购物1
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001040/index.m3u8
+#EXTINF:-1 tvg-id="东方购物" tvg-name="东方购物" tvg-logo="https://live.fanmingming.com/tv/东方购物.png" group-title="购物频道",东方购物2
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001039/index.m3u8
 #EXTINF:-1 tvg-id="央广购物" tvg-name="央广购物" tvg-logo="https://live.fanmingming.com/tv/央广购物.png" group-title="购物频道",央广购物
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001420/index.m3u8
 #EXTINF:-1 tvg-id="优购物" tvg-name="优购物" tvg-logo="https://live.fanmingming.com/tv/优购物.png" group-title="购物频道",优购物

@@ -35,6 +35,8 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001338/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001248/index.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克 4K
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV-4K 超高清
 http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视频道",CCTV-8K 超高清
@@ -293,6 +295,8 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001149/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001153/index.m3u8
 #EXTINF:-1 tvg-id="东方购物" tvg-name="东方购物" tvg-logo="https://live.fanmingming.com/tv/东方购物.png" group-title="购物频道",东方购物1
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001040/index.m3u8
+#EXTINF:-1 tvg-id="东方购物" tvg-name="东方购物" tvg-logo="https://live.fanmingming.com/tv/东方购物.png" group-title="购物频道",东方购物2
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001039/index.m3u8
 #EXTINF:-1 tvg-id="央广购物" tvg-name="央广购物" tvg-logo="https://live.fanmingming.com/tv/央广购物.png" group-title="购物频道",央广购物
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001420/index.m3u8
 #EXTINF:-1 tvg-id="优购物" tvg-name="优购物" tvg-logo="https://live.fanmingming.com/tv/优购物.png" group-title="购物频道",优购物

@@ -1,6 +1,6 @@
-# List for **China v6**
+# List for **fanmingming/live v6**
 
-> M3U: <https://vodtv.cn/iptv/cn_v6.m3u>, TXT: <https://vodtv.cn/iptv/txt/cn_v6.txt>
+> M3U: <https://m3u.ibert.me/fmml_v6.m3u>, TXT: <https://m3u.ibert.me/txt/fmml_v6.txt>
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
@@ -118,4 +118,4 @@
 | 112 | 欢笑剧场4K | [欢笑剧场4K](http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226582/1.m3u8) |
 | 113 | 纯享超清 | [纯享超清](http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8) |
 
-Updated at **Fri Dec 15 2023 15:27:46 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Dec 15 2023 17:11:59 GMT+0000 (Coordinated Universal Time)**

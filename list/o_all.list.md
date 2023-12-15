@@ -1,6 +1,6 @@
 # List for **iptv.org All**
 
-> M3U: <https://vodtv.cn/iptv/o_all.m3u>, TXT: <https://vodtv.cn/iptv/txt/o_all.txt>
+> M3U: <https://m3u.ibert.me/o_all.m3u>, TXT: <https://m3u.ibert.me/txt/o_all.txt>
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
@@ -3832,4 +3832,4 @@
 | 3826 | Хит HD | [Хит HD](http://moobl.ru/hls/Hit_hd.m3u8) |
 | 3827 | Առաջին ալիք (1080p) | [Առաջին ալիք (1080p)](https://amtv1.livestreamingcdn.com/am2abr/index.m3u8) |
 
-Updated at **Fri Dec 15 2023 15:27:46 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Dec 15 2023 17:11:59 GMT+0000 (Coordinated Universal Time)**

@@ -1,6 +1,6 @@
 # List for **iptv.org stream China CCTV**
 
-> M3U: <https://vodtv.cn/iptv/o_s_cn_cctv.m3u>, TXT: <https://vodtv.cn/iptv/txt/o_s_cn_cctv.txt>
+> M3U: <https://m3u.ibert.me/o_s_cn_cctv.m3u>, TXT: <https://m3u.ibert.me/txt/o_s_cn_cctv.txt>
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
@@ -27,4 +27,4 @@
 | 21 | CCTV-16奥林匹克 | [CCTV-16奥林匹克](https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K) |
 | 22 | CCTV-17农业农村 (1080p) | [CCTV-17农业农村 (1080p)](http://183.196.25.171:808/hls/93/index.m3u8) |
 
-Updated at **Fri Dec 15 2023 15:27:46 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Dec 15 2023 17:11:59 GMT+0000 (Coordinated Universal Time)**
