@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 name: update
+=======
+name: update script
+>>>>>>> 466b3580b739f7dcdb4f7e9081bf73709966c9bd
 on:
     push:
         branches: [main]
@@ -21,4 +25,8 @@ jobs:
               with:
                   github_token: ${{ secrets.GITHUB_TOKEN }}
                   publish_dir: ./m3u
+<<<<<<< HEAD
                   cname: vodtv.cn/iptv
+=======
+                  cname: vodtv.cn/iptv
+>>>>>>> 466b3580b739f7dcdb4f7e9081bf73709966c9bd
