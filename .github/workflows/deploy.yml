@@ -1,11 +1,10 @@
-<<<<<<< HEAD
 name: update
-=======
-name: update script
->>>>>>> 466b3580b739f7dcdb4f7e9081bf73709966c9bd
-on:
-    push:
-        branches: [main]
+on:  
+  watch:
+    types: [started]
+  schedule:
+   - cron:  '0 0,8 * * *'
+  workflow_dispatch:
 jobs:
     build:
         runs-on: ubuntu-latest
@@ -13,20 +12,13 @@ jobs:
             - uses: actions/checkout@v3
             - uses: actions/setup-node@v3
               with:
-                  node-version: '18.18.2'
                   cache: "npm"
-            - name: install yarn
-              run: npm install yarn -g
-            - run: yarn install
-            - run: yarn build
-            - run: yarn run m3u
+            - run: npm install 
+            - run: npm run build
+            - run: npm run m3u
             - name: Deploy
               uses: peaceiris/actions-gh-pages@v3
               with:
                   github_token: ${{ secrets.GITHUB_TOKEN }}
                   publish_dir: ./m3u
-<<<<<<< HEAD
                   cname: vodtv.cn/iptv
-=======
-                  cname: vodtv.cn/iptv
->>>>>>> 466b3580b739f7dcdb4f7e9081bf73709966c9bd
