@@ -18,11 +18,11 @@ jobs:
         steps:
             - name: Checkout
               uses: actions/checkout@v3               
-            - name: install yarn
-              run: npm install yarn -g
-            - run: yarn install
-            - run: yarn build
-            - run: yarn m3u
+            - name: install pnpm
+              run: npm install pnpm -g
+            - run: pnpm install
+            - run: pnpm run build
+            - run: pnpm run m3u
             
             - name: Deploy
               uses: peaceiris/actions-gh-pages@v3
