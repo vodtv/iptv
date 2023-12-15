@@ -11,10 +11,6 @@ jobs:
         steps:
             - uses: actions/checkout@v3
             - uses: actions/setup-node@v3
-              if: ${{ !env.ACT }}
-              with:
-                node-version: '18.18.2'
-                cache: 'pnpm'
             - name: install dependencies
               run: npm install pnpm -g
             - run: pnpm i
