@@ -1,18 +1,22 @@
-name: update script
+name: Update
 
 on:
-    push:
-        branches: [main]
+  watch:
+    types: [started]
+  schedule:
+   - cron:  '0 0,8 * * *'
+  workflow_dispatch:
 
+env:
+  TZ: Asia/Shanghai
+  
 jobs:
     build:
         runs-on: ubuntu-latest
-
         strategy:
             matrix:
                 node-version: [18.x]
                 # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
-
         steps:
             - uses: actions/checkout@v3
             - name: Use Node.js ${{ matrix.node-version }}
