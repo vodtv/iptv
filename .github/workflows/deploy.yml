@@ -8,26 +8,23 @@ on:
 jobs:
     build:
         runs-on: ubuntu-latest
+        strategy:
+          matrix:
+            node-version: [14.x, 16.x, 18.x]
         steps:
             - uses: actions/checkout@v3
-            - uses: actions/setup-node@v3
-            - name: install dependencies
-              run: npm install pnpm -g
-            - run: pnpm i
-            - run: pnpm run build
-<<<<<<< HEAD
-            - run: pnpm run Deploy
-=======
-            - run: pnpm run m3u
->>>>>>> e9709befddfb35534ecf855a89efafb39c9830e8
+            - name: Use Node.js ${{ matrix.node-version }}
+              uses: actions/setup-node@v3
+              with:
+                node-version: ${{ matrix.node-version }}
+                cache: 'npm'
+            - run: npm i
+            - run: npm run build
+            - run: npm run Deploy
 
             - name: Deploy
               uses: peaceiris/actions-gh-pages@v3
               with:
                   github_token: ${{ secrets.GITHUB_TOKEN }}
                   publish_dir: ./m3u
-<<<<<<< HEAD
                   cname: vodtv.cn/iptv
-=======
-                  cname: vodtv.cn/iptv
->>>>>>> e9709befddfb35534ecf855a89efafb39c9830e8
