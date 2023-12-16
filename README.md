@@ -2,7 +2,7 @@
 <img src="https://vodtv.gitee.io/img/iptv/logo.png" height="200"/>
 <h1 align="center">IPTV -网络电视</h1>
 <h3>收集来自世界各地的公开可用的IPTV频道</h3>
-<h3>🔗 https://vodtv.cn/iptv</h3>
+<h3> https://vodtv.cn/iptv</h3>
 </div>
 
 ---
