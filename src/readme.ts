@@ -67,13 +67,8 @@ export const updateReadme = (
     "<!-- channels_here -->",
     `${sources
       .map(
-<<<<<<< HEAD
-        (s, idx) =>
-          `| ${s.name} | <https://vodtv.cn/iptv/${
-=======
         (, idx) =>
-          `| ${s.name} | <https://m3u.ibert.me/${
->>>>>>> e9709befddfb35534ecf855a89efafb39c9830e8
+          `| ${s.name} | <https://vodtv.cn/iptv/${
             s.f_name
           }.m3u> <br> <https://vodtv.cn/iptv/txt/${s.f_name}.txt> | [List for ${
             s.name
