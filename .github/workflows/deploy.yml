@@ -15,11 +15,19 @@ jobs:
               run: npm install pnpm -g
             - run: pnpm i
             - run: pnpm run build
+<<<<<<< HEAD
+            - run: pnpm run Deploy
+=======
             - run: pnpm run m3u
+>>>>>>> e9709befddfb35534ecf855a89efafb39c9830e8
 
             - name: Deploy
               uses: peaceiris/actions-gh-pages@v3
               with:
                   github_token: ${{ secrets.GITHUB_TOKEN }}
                   publish_dir: ./m3u
+<<<<<<< HEAD
                   cname: vodtv.cn/iptv
+=======
+                  cname: vodtv.cn/iptv
+>>>>>>> e9709befddfb35534ecf855a89efafb39c9830e8
