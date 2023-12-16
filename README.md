@@ -1,10 +1,12 @@
 <div align="center">
-<img src="https://vodtv.gitee.io/img/iptv/logo.png" height="200"/>
-<h1 align="center">IPTV -网络电视</h1>
-<h3>收集来自世界各地的公开可用的IPTV频道</h3>
-<h3>🔗 https://vodtv.cn/iptv</h3>
+<img src="https://viptv.work/img/iptv/logo.png" height="200" />
+<h1 >IPTV - 网络电视工具链</h1>
+<h4>收集来自世界各地的公开可用的IPTV频道</h4>  
+<h3 >
+<a href="https://github.com/vodtv/iptv">国际站</a> —  
+<a href="https://vodtv.cn/iptv"><i>国内站</i></a>
+</h3> 
 </div>
-
 
 ## 📖 说明
 
