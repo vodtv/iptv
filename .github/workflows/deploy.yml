@@ -5,14 +5,16 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
             
     - name:  Install and Build
       run: |   
         yarn install &&  yarn run build
-        yarn m3u
+        yarn run m3u
             
-
+    - name: "Jekyll theme"
+      run: mv ./_config.temp.yml ./m3u/_config.yml
+      
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
