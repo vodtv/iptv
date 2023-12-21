@@ -8,23 +8,20 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        node_version: ['18.x']
     steps:
         - name: Checkout
           uses: actions/checkout@v4
-        - name: Setup Node.js ${{ matrix.node-version }}
+        - name: Setup Node.js
           uses: actions/setup-node@v1
           with:
-            node-version: ${{ matrix.node-version }}
-            cache: "npm"
+            cache: "pnpm"
             
-        - name: npm install, build and test
+        - name: npm install pnpm
           run: |     
-            npm install
-            npm run build
-            npm run deploy
+            npm install pnpm -g
+            pnpm i
+            pnpm run build
+            pnpm run deploy
             
         - name: "Jekyll theme"
           run: mv ./_config.temp.yml ./m3u/_config.yml 
