@@ -1,4 +1,4 @@
-name: update
+name: deploy
 on:  
   watch:
     types: [started]
@@ -8,14 +8,22 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [18.x]
     steps:
         - name: Checkout
           uses: actions/checkout@v4
-        - name: Setup Node.js
+        - name: Setup Node.js ${{ matrix.node-version }}
           uses: actions/setup-node@v3
-        - run: npm i
-        - run: npm run build
-        - run: npm run deploy
+          with:
+            node-version: ${{ matrix.node-version }}
+            cache: "npm"
+        - name: install yarn
+          run: npm install yarn -g
+        - run: yarn install
+        - run: yarn build
+        - run: yarn run deploy
             
         - name: "Jekyll theme"
           run: mv ./_config.temp.yml ./m3u/_config.yml 
