@@ -9,7 +9,7 @@
   "scripts": {
     "dev": "tsup --watch",
     "build": "tsup",
-    "deploy": "node ./dist/index.js"
+    "m3u": "node ./dist/index.js"
   },
   "devDependencies": {
     "@types/node": "^20.10.0",
