@@ -1,6 +1,6 @@
 # List for **YanG_1989 Adult**
 
-> M3U: <https://m3u.ibert.me/y_a.m3u>, TXT: <https://m3u.ibert.me/txt/y_a.txt>
+> M3U: <https://m3u.vodtv.cn/y_a.m3u>, TXT: <https://m3u.vodtv.cn/txt/y_a.txt>
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
@@ -1215,4 +1215,4 @@
 | 1209 | ysn-565渚 | [ysn-565渚](https://t15.cdn2020.com:12339/video/m3u8/2022/02/02/0bf471ba/index.m3u8) |
 | 1210 | ysn-566高瀬 | [ysn-566高瀬](https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/96dc5cd0/index.m3u8) |
 
-Updated at **Sat Dec 16 2023 13:06:03 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Dec 21 2023 17:05:33 GMT+0000 (Coordinated Universal Time)**
