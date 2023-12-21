@@ -4,13 +4,19 @@ on:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [18.x]
     steps:
-    - uses: actions/checkout@v4
-            
+    - uses: actions/checkout@v3
+    - uses: actions/setup-node@v3   
+      with:
+        node-version: ${{ matrix.node-version }}
+        cache: "npm"
     - name:  Install and Build
       run: |   
-        yarn install &&  yarn run build
-        yarn run m3u
+        npm install yarn -g &&  yarn install
+        yarn build && yarn run m3u
             
     - name: "Jekyll theme"
       run: mv ./_config.temp.yml ./m3u/_config.yml
