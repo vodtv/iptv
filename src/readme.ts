@@ -66,13 +66,13 @@ export const updateReadme = (
   const after = readme.replace(
     "<!-- channels_here -->",
     `${sources
-      .map(
-        (, idx) =>
-          `| ${s.name} | <https://m3u.vodtv.cn/${
-            s.f_name
-          }.m3u> <br> <https://m3u.vodtv.cn/txt/${s.f_name}.txt> | [List for ${
-            s.name
-          }](https://m3u.vodtv.cn/list/${s.f_name}.list) | ${
+      ?.map(
+          (d, idx) =>
+          `| ${d.name} | <https://m3u.vodtv.cn/${
+            d.f_name
+          }.m3u> <br> <https://m3u.vodtv.cn/txt/${d.f_name}.txt> | [List for ${
+            d.name
+          }](https://m3u.vodtv.cn/list/${d.f_name}.list) | ${
             counts[idx] === undefined ? "update failed" : counts[idx]
           } |`
       )
