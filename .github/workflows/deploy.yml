@@ -16,12 +16,11 @@ jobs:
           with:
             cache: "pnpm"
             
-        - name: npm install pnpm
+        - name: npm install npm
           run: |     
-            npm install pnpm -g
-            pnpm i
-            pnpm run build
-            pnpm run deploy
+            npm i
+            npm run build
+            npm run deploy
             
         - name: "Jekyll theme"
           run: mv ./_config.temp.yml ./m3u/_config.yml 
