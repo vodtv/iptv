@@ -5,6 +5,8 @@ on:
   schedule:
     - cron: '30 5,17 * * *'
   workflow_dispatch:
+env: 
+  NODE_VERSION: '14.x'  
 jobs:
   build:
     runs-on: ubuntu-latest
