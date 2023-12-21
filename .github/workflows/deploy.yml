@@ -2,7 +2,7 @@ name: deploy
 on:  
   workflow_dispatch:
 env: 
-  NODE_VERSION: '14.x'  
+  NODE_VERSION: '18.x'  
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -17,9 +17,10 @@ jobs:
             
     - name: npm install npm
       run: |     
-        npm install
-        npm run build --if-present
-        npm run m3u --if-present
+        npm install yarn -g
+        yarn install
+        yarn build
+        yarn run m3u
             
     - name: "Jekyll theme"
       run: mv ./_config.temp.yml ./m3u/_config.yml 
