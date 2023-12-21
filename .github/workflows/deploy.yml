@@ -3,7 +3,7 @@ on:
   watch:
     types: [started]
   schedule:
-    - cron: 0,30 * * * *
+    - cron: '30 5,17 * * *'
   workflow_dispatch:
 jobs:
     build:
