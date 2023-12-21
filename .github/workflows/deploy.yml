@@ -2,15 +2,15 @@ name: deploy
 on:  
   workflow_dispatch:
 env: 
-  NODE_VERSION: '18.x'  
+  NODE_VERSION: '18'  
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
           
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
+    - name: Set up Node.js version 18
+      uses: actions/setup-node@v1
       with:
         node-version: ${{ env.NODE_VERSION }}
         cache: 'npm'
