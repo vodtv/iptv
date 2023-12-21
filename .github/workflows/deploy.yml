@@ -19,7 +19,7 @@ jobs:
             
     - name: npm install npm
       run: |     
-        npm i
+        npm install
         npm run build --if-present
         npm run m3u --if-present
             
