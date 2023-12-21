@@ -20,8 +20,8 @@ jobs:
     - name: npm install npm
       run: |     
         npm i
-        npm run build
-        npm run m3u
+        npm run build --if-present
+        npm run m3u --if-present
             
     - name: "Jekyll theme"
       run: mv ./_config.temp.yml ./m3u/_config.yml 
