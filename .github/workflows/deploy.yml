@@ -10,20 +10,21 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        node-version: [18.x]
+        node_version: ['8', '10', '12']
     steps:
         - name: Checkout
           uses: actions/checkout@v4
         - name: Setup Node.js ${{ matrix.node-version }}
-          uses: actions/setup-node@v3
+          uses: actions/setup-node@v1
           with:
             node-version: ${{ matrix.node-version }}
             cache: "npm"
-        - name: install yarn
-          run: npm install yarn -g
-        - run: yarn install
-        - run: yarn build
-        - run: yarn run deploy
+            
+        - name: npm install, build and test
+          run: |     
+            npm install
+            npm run build --if-present
+            npm run deploy
             
         - name: "Jekyll theme"
           run: mv ./_config.temp.yml ./m3u/_config.yml 
