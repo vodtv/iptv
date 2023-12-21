@@ -11,14 +11,15 @@ jobs:
       uses: actions/setup-node@v4
       with:
         token: ${{ secrets.GH_DOTCOM_TOKEN }}
-        node-version: 16
+        node-version: 18.x
         cache: 'npm'
             
     - name:  install npm
-      run: |     
-        npm install
-        npm run build
-        npm run m3u
+      run: |   
+        npm install yarn -g
+        yarn install
+        yarn build
+        yarn m3u
             
     - name: "Jekyll theme"
       run: mv ./_config.temp.yml ./m3u/_config.yml 
