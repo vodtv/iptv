@@ -2,10 +2,10 @@ name: deploy
 on:  
   workflow_dispatch:
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v2
             
     - name:  Install and Build
       run: |   
@@ -16,7 +16,7 @@ jobs:
     - name: Deploy 🚀
       uses: JamesIves/github-pages-deploy-action@v4.3.0
       with:
-        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        ACCESS_TOKEN: ${{ secrets.GH_DOTCOM_TOKEN }}
         BRANCH: gh-pages
         FOLDER: ./m3u
    
