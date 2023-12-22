@@ -3,6 +3,8 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  schedule:
+    - cron: '0 0,8 * * *'
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
