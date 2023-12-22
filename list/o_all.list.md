@@ -3925,4 +3925,4 @@
 | 3919 | Херсон Плюс (576p) | [Херсон Плюс (576p)](http://46.175.163.130/ks_plus/index.m3u8) |
 | 3920 | Առաջին ալիք (1080p) | [Առաջին ալիք (1080p)](https://amtv1.livestreamingcdn.com/am2abr/index.m3u8) |
 
-Updated at **Fri Dec 22 2023 03:55:22 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Dec 22 2023 08:20:56 GMT+0000 (Coordinated Universal Time)**
