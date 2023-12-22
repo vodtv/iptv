@@ -24,7 +24,7 @@
 | 18 | [BD]cctv6[ipv6] | [[BD]cctv6[ipv6]](https://epg.pw/stream/17a2cd6baf28eea74e93e9c0b1cafec7c77e144ab58c001890a95b7a942db8b4.m3u8) |
 | 19 | [BD]cctv7[ipv6] | [[BD]cctv7[ipv6]](https://epg.pw/stream/085cc8320b47039f91c89f261b3bde134c04438bf58155988cdd2120c8ae5c1c.m3u8) |
 | 20 | [BD]cctv8 | [[BD]cctv8](https://epg.pw/stream/9e5ef6be8ac32d23db431bdc8d9d49531b4bdf96d53db08dd102919b70f12e88.m3u8) |
-| 21 | [BD]cctv9 | [[BD]cctv9](https://epg.pw/stream/468810bb8a5aea0738c0e707e4b0ed227aeb431a11a977aa1a43fd542997f525.m3u8) |
+| 21 | [VGA]cctv9 | [[VGA]cctv9](https://epg.pw/stream/468810bb8a5aea0738c0e707e4b0ed227aeb431a11a977aa1a43fd542997f525.m3u8) |
 | 22 | [BD]cctv世界地理[ipv6] | [[BD]cctv世界地理[ipv6]](https://epg.pw/stream/6c49b3dcaa8df3ccc513b14c3dbeb8b0c6a404805e88aee19c1ebc53d79dbfef.m3u8) |
 | 23 | [SD]cctv-7国防军事 | [[SD]cctv-7国防军事](https://epg.pw/stream/bbe967530d8fa9e49eaf55e5658ac938f0d80d6f616399efd0a110116c6b2c1f.m3u8) |
 | 24 | [BD]cctv央视台球[ipv6] | [[BD]cctv央视台球[ipv6]](https://epg.pw/stream/51b8aac49ec3c280ee204075b38542e9a547208c9f6a19b6bd517a333e321407.m3u8) |
@@ -42,7 +42,7 @@
 | 36 | [HD]nfl channel | [[HD]nfl channel](https://epg.pw/stream/24a73a702372c944732ac9f46870481c922666d21ca9697202cac9dcecd788c7.m3u8) |
 | 37 | [BD]rt documentary | [[BD]rt documentary](https://epg.pw/stream/ea7a33d76c07f81ad5b6c6aceaecdb197a95b0a7c231fd7ad62ffc6238c8db95.m3u8) |
 | 38 | [SD]万州科教 | [[SD]万州科教](https://epg.pw/stream/aff41d9171e19270999335d0346c0dac4a73f76a47f63489ce6e69101b59416a.m3u8) |
-| 39 | [HD]三明新闻综合 | [[HD]三明新闻综合](https://epg.pw/stream/1104c91eba11b6abee2227f449923ec9fb80794fc1405221c4eab99feaf6da6d.m3u8) |
+| 39 | [VGA]三明新闻综合 | [[VGA]三明新闻综合](https://epg.pw/stream/1104c91eba11b6abee2227f449923ec9fb80794fc1405221c4eab99feaf6da6d.m3u8) |
 | 40 | [BD]上海ics外语[ipv6] | [[BD]上海ics外语[ipv6]](https://epg.pw/stream/1141f78b5322aec20c402bcfcec4349ca9062fc157afcec63e4a9a5893b2d304.m3u8) |
 | 41 | [SD]上海教育[ipv6] | [[SD]上海教育[ipv6]](https://epg.pw/stream/91dbe729813036326a6c7cd5507f2bdc96675567ce979bbc17f348adaeeacc39.m3u8) |
 | 42 | [BD]上海纪实人文 | [[BD]上海纪实人文](https://epg.pw/stream/b6163053e950966f7d33e74245e743a51e4abbae0f3d136f0210b71ec3189fe2.ctv) |
@@ -100,7 +100,7 @@
 | 94 | [BD]早期教育 | [[BD]早期教育](https://epg.pw/stream/700e053a177a2edf245bc06b20b07efc7c8467d1a0d7acd6662cce25ef1fe633.ctv) |
 | 95 | [BD]晋城公共 | [[BD]晋城公共](https://epg.pw/stream/b7f4f32a1638a3b6250279b309453a5076b69acd3e4a02fb4d092e291fda15d1.m3u8) |
 | 96 | [BD]东南卫视 | [[BD]东南卫视](https://epg.pw/stream/93a8f67f0f3354496b9a612649d40aca459161284ffda09dd02506f115a7ce38.ctv) |
-| 97 | [BD]林正英 | [[BD]林正英](https://epg.pw/stream/f47a03ed2446c13957a1b49048fe7a761f769a697c9e324a897de5d6a02792b8.ctv) |
+| 97 | [HD]林正英 | [[HD]林正英](https://epg.pw/stream/f47a03ed2446c13957a1b49048fe7a761f769a697c9e324a897de5d6a02792b8.ctv) |
 | 98 | [SD]枣庄公共频道 | [[SD]枣庄公共频道](https://epg.pw/stream/ba49d45f34e3d048196c5f4a26950f4ea2e3db34f08caced49d49efcf417d9ef.m3u8) |
 | 99 | [SD]枣庄新闻综合 | [[SD]枣庄新闻综合](https://epg.pw/stream/c96d12ec316e8297973a210e94860e269e8797986e6a6223f3be444387c32341.m3u8) |
 | 100 | [BD]梨园频道[ipv6] | [[BD]梨园频道[ipv6]](https://epg.pw/stream/7c43577c864ee142dd48684afeab4892eee19e249d3dfbef02367133a129d32e.m3u8) |
@@ -182,4 +182,4 @@
 | 176 | [SD]黑龙江公共农业 | [[SD]黑龙江公共农业](https://epg.pw/stream/d4bc9942241f1c893fad50ece90abfce425419abf78dc318325058f860b1df11.m3u8) |
 | 177 | [BD]黑龙江卫视 8m | [[BD]黑龙江卫视 8m](https://epg.pw/stream/53cf5f9b0b328e1c40de1fc5d4aac8926a4772f9beeddad01f8a3350be87e5f1.ctv) |
 
-Updated at **Thu Dec 21 2023 17:05:33 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Dec 22 2023 03:55:23 GMT+0000 (Coordinated Universal Time)**

@@ -39,7 +39,7 @@ https://epg.pw/stream/17a2cd6baf28eea74e93e9c0b1cafec7c77e144ab58c001890a95b7a94
 https://epg.pw/stream/085cc8320b47039f91c89f261b3bde134c04438bf58155988cdd2120c8ae5c1c.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-id="13850" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091148336802_98.png" group-title="电影",[BD]cctv8
 https://epg.pw/stream/9e5ef6be8ac32d23db431bdc8d9d49531b4bdf96d53db08dd102919b70f12e88.m3u8
-#EXTINF:-1 tvg-name="CCTV9" tvg-id="13851" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091000110272_13.png" group-title="纪实",[BD]cctv9
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="13851" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091000110272_13.png" group-title="纪实",[VGA]cctv9
 https://epg.pw/stream/468810bb8a5aea0738c0e707e4b0ed227aeb431a11a977aa1a43fd542997f525.m3u8
 #EXTINF:-1 tvg-name="CCTV世界地理" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/10/large/20220510000346281201_79.jpg" group-title="纪实",[BD]cctv世界地理[ipv6]
 https://epg.pw/stream/6c49b3dcaa8df3ccc513b14c3dbeb8b0c6a404805e88aee19c1ebc53d79dbfef.m3u8
@@ -75,7 +75,7 @@ https://epg.pw/stream/24a73a702372c944732ac9f46870481c922666d21ca9697202cac9dcec
 https://epg.pw/stream/ea7a33d76c07f81ad5b6c6aceaecdb197a95b0a7c231fd7ad62ffc6238c8db95.m3u8
 #EXTINF:-1 tvg-name="万州科教" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2021/08/27/large/20210827022846359819_64.png" group-title="其它",[SD]万州科教
 https://epg.pw/stream/aff41d9171e19270999335d0346c0dac4a73f76a47f63489ce6e69101b59416a.m3u8
-#EXTINF:-1 tvg-name="三明新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/11/01/large/20221101002131666296_98.jpg" group-title="新闻",[HD]三明新闻综合
+#EXTINF:-1 tvg-name="三明新闻综合" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/11/01/large/20221101002131666296_98.jpg" group-title="新闻",[VGA]三明新闻综合
 https://epg.pw/stream/1104c91eba11b6abee2227f449923ec9fb80794fc1405221c4eab99feaf6da6d.m3u8
 #EXTINF:-1 tvg-name="上海ics外语" tvg-id="" tvg-country="中国大陆" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2016/04/25/large/20160425235034419484_33.jpg" group-title="综合",[BD]上海ics外语[ipv6]
 https://epg.pw/stream/1141f78b5322aec20c402bcfcec4349ca9062fc157afcec63e4a9a5893b2d304.m3u8
@@ -191,7 +191,7 @@ https://epg.pw/stream/700e053a177a2edf245bc06b20b07efc7c8467d1a0d7acd6662cce25ef
 https://epg.pw/stream/b7f4f32a1638a3b6250279b309453a5076b69acd3e4a02fb4d092e291fda15d1.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/30/large/20220530230913448467_39.jpg" group-title="综合",[BD]东南卫视
 https://epg.pw/stream/93a8f67f0f3354496b9a612649d40aca459161284ffda09dd02506f115a7ce38.ctv
-#EXTINF:-1 tvg-name="林正英" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525050911565808_71.png" group-title="电影",[BD]林正英
+#EXTINF:-1 tvg-name="林正英" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525050911565808_71.png" group-title="电影",[HD]林正英
 https://epg.pw/stream/f47a03ed2446c13957a1b49048fe7a761f769a697c9e324a897de5d6a02792b8.ctv
 #EXTINF:-1 tvg-name="枣庄公共频道" tvg-id="" tvg-country="中国大陆" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2022/11/01/large/20221101012454390366_26.jpg" group-title="综合",[SD]枣庄公共频道
 https://epg.pw/stream/ba49d45f34e3d048196c5f4a26950f4ea2e3db34f08caced49d49efcf417d9ef.m3u8
