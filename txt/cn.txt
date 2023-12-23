@@ -2,7 +2,7 @@ China,#genre#
 [SD]CCM,https://epg.pw/stream/23e70b3eb1d514cb89a6372d8a29b50cbf9ac72a5f5e597d28b02445a26d1fe8.ctv
 [BD]cctv1[ipv6],https://epg.pw/stream/3415b8e289adbdbd4835bbdcd1a9396edbadfb65f276fcece6542d6a44a6605c.m3u8
 [BD]cctv10,https://epg.pw/stream/6ef5ffbb8c7555a1beee3d70767d5f42614470f8a2b7344cc478e75a0fe444a1.m3u8
-[BD]cctv11,https://epg.pw/stream/6ba4b8f02bff74ce5171e23abaeba2663203fa82ab49744698d429566f706afe.m3u8
+[VGA]cctv11,https://epg.pw/stream/6ba4b8f02bff74ce5171e23abaeba2663203fa82ab49744698d429566f706afe.m3u8
 [BD]cctv12[ipv6],https://epg.pw/stream/06025da15ba23cad6264166f6216c1cfb7f9bd2e1e759e6eab92ed6fb62f7daa.m3u8
 [BD]cctv13[ipv6],https://epg.pw/stream/40a9e2982bc945aca7ceebc0664c69c3da53d8b7169e7edee6383656ab72004b.m3u8
 [BD]cctv14[ipv6],https://epg.pw/stream/81b7797c31f3ca9a91e207b707f88027d93cf50d35999fc2e33c24e9bf30d709.m3u8
@@ -27,7 +27,7 @@ China,#genre#
 [SD]ltv,https://epg.pw/stream/029e955b34c740d195366fd33dcebdce79b63fabb52d2c6ed911106d93759f86.m3u8
 [SD]cctv-11戏曲,https://epg.pw/stream/b7ef5c529b15446a2c8ce45c8f7aa56adcdf83cca42dd7c680952f4fbd52a163.m3u8
 [BD]cctv文化精品[ipv6],https://epg.pw/stream/24c64b08560eaa6524bf24d20d577d0938a4d64229416a5744a16f08f4dd161a.m3u8
-[BD]cetv1[ipv6],https://epg.pw/stream/8b1753aa1c34222511ed35b4c2590e3e37b4722a458ce8aa18f5243fb1659868.m3u8
+[BD]cetv1,https://epg.pw/stream/14867319e0bd88b95b76ec4ccfd62c4a50370f70bccf3fac4576396494640b1e.ctv
 [SD]cgtn español (576p),https://epg.pw/stream/32644b27df53a500dd42ddb0c101df37f0ada5c8d4bb5ed3f0612a65873b6de7.m3u8
 [SD]cgtn français (576p) [not 24/7],https://epg.pw/stream/182476bbeaf13251289573a758465d37f1716f737f8f770d4e5980a63eb4a88b.m3u8
 [SD]cgtn русский,https://epg.pw/stream/6ca06fc1489615cf31bdce2f8cb0f6c94a2f105e22a48d6e677cbef2f79a32d0.m3u8
@@ -36,11 +36,11 @@ China,#genre#
 [HD]nfl channel,https://epg.pw/stream/24a73a702372c944732ac9f46870481c922666d21ca9697202cac9dcecd788c7.m3u8
 [BD]rt documentary,https://epg.pw/stream/ea7a33d76c07f81ad5b6c6aceaecdb197a95b0a7c231fd7ad62ffc6238c8db95.m3u8
 [SD]万州科教,https://epg.pw/stream/aff41d9171e19270999335d0346c0dac4a73f76a47f63489ce6e69101b59416a.m3u8
-[VGA]三明新闻综合,https://epg.pw/stream/1104c91eba11b6abee2227f449923ec9fb80794fc1405221c4eab99feaf6da6d.m3u8
+[HD]三明新闻综合,https://epg.pw/stream/1104c91eba11b6abee2227f449923ec9fb80794fc1405221c4eab99feaf6da6d.m3u8
 [BD]上海ics外语[ipv6],https://epg.pw/stream/1141f78b5322aec20c402bcfcec4349ca9062fc157afcec63e4a9a5893b2d304.m3u8
 [SD]上海教育[ipv6],https://epg.pw/stream/91dbe729813036326a6c7cd5507f2bdc96675567ce979bbc17f348adaeeacc39.m3u8
 [BD]上海纪实人文,https://epg.pw/stream/b6163053e950966f7d33e74245e743a51e4abbae0f3d136f0210b71ec3189fe2.ctv
-[BD]上海都市[ipv6],https://epg.pw/stream/0e304419acd18f06632242d04ca3e267a9ac00bbb7bc7252fc9775420a18ec64.m3u8
+[BD]上海都市,https://epg.pw/stream/7b05aaa7c484b4b641fcbf62f41a7c885960fbd3ffe4a0d89d3411184afdde92.ctv
 [SD]丘北新闻综合,https://epg.pw/stream/34f594424a186a28a9521b8cb3912cdf85b93897313182a9abeaf096b23e9458.m3u8
 [VGA]东北戏曲,https://epg.pw/stream/a64878b475426eb4f7be1a6a250b660bdc478877bd92b6eaf29d09c52c0cea83.m3u8
 [VGA]东北戏曲频道,https://epg.pw/stream/2927c0c65ac9d2bdfa9100c2a0bd9b61b088088feb4b76d5f1ca14a20c4d81c0.m3u8
@@ -165,7 +165,7 @@ China,#genre#
 [HD]青海都市,https://epg.pw/stream/4acd2e75fc0a26c45b41c6808d6eb07039e023cf62c2b24b33767e969eaadc1a.m3u8
 [BD]5+体育赛事,https://epg.pw/stream/8e87dfe99f2a476ed0f64027d3fe221c0aa002845001d44e3e273df669c0bd9c.m3u8
 [HD]黄石新闻综合,https://epg.pw/stream/1586c79b7cfe7c205b3508bfd9d0fac2da8a9eb50edbb301312b3059740019d9.m3u8
-[BD]黑莓动画[ipv6],https://epg.pw/stream/89e7b1ef96dda539de25777630876882df0b78804426054f09f3a2aa677a868e.m3u8
+[BD]黑莓动画[ipv6],https://epg.pw/stream/45813b437b496af365b98b5b50b7bec13f152ff9fb879a54eac30751384d665d.m3u8
 [BD]黑莓电影 4m1080[ipv6],https://epg.pw/stream/7cd2a163028ebcd6e8caffba4408642bb8a5009e13dd97bf5f36706cd75f395e.m3u8
 [BD]黑莓电影[ipv6],https://epg.pw/stream/a106bba49a6159d54ee66205038e678acf94d13e34266e678ee7b08ce650766a.m3u8
 [SD]黑龙江|哈尔滨新闻,https://epg.pw/stream/a21c5bac9f70af160171c8746af2abc62e69b596653b7c18517ee945b2e8d157.m3u8
