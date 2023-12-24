@@ -8,7 +8,7 @@
 | 2 | [BD]北京卫视[ipv6] | [[BD]北京卫视[ipv6]](https://epg.pw/stream/ed16a4cd210c9f9d6204ddc6fb5def63a1c54b60114fb61679e61363edea068b.m3u8) |
 | 3 | [BD]吉林卫视 | [[BD]吉林卫视](https://epg.pw/stream/20ec706dec67b36d8bd933921ddc77d953bdbb5db85ceb51b4235469b7fa23b2.ctv) |
 | 4 | [VGA]四川卫视 | [[VGA]四川卫视](https://epg.pw/stream/c1d7aa9fdbe369ae7c3242d0dade547b7987e1e37e7e2098a45e794c3296f862.m3u8) |
-| 5 | [BD]天津卫视[ipv6] | [[BD]天津卫视[ipv6]](https://epg.pw/stream/5130db2a0db7213cccda6a66743eccb8ca7db6b5b8c54e87636fdd0b694ce979.m3u8) |
+| 5 | [BD]天津卫视[ipv6] | [[BD]天津卫视[ipv6]](https://epg.pw/stream/344ebea3be1190a8d1d792350cc6b3b9c136cee74ecc54b26751265784abc97f.m3u8) |
 | 6 | [SD]安徽卫视 | [[SD]安徽卫视](https://epg.pw/stream/80d1988862ff0162fdab6745b126a3a69d563855cbc5df750cd96b6424ea16a1.m3u8) |
 | 7 | [BD]山东卫视[ipv6] | [[BD]山东卫视[ipv6]](https://epg.pw/stream/4a343c7c4de4157d46c357cae28382364d74d1884942cf09bd212bfce4beeb7b.m3u8) |
 | 8 | [SD]山西卫视[ipv6] | [[SD]山西卫视[ipv6]](https://epg.pw/stream/26bc11f19d981a15cde7badbe86ce9030af5cb1f8a4bf8c8e454c2b11e14f962.m3u8) |
@@ -40,4 +40,4 @@
 | 34 | [SD]青海卫视[ipv6] | [[SD]青海卫视[ipv6]](https://epg.pw/stream/baf5e50a17f574f86c96810d5d2eebbbc3570ca5f5a35d953837040845c89726.m3u8) |
 | 35 | [BD]黑龙江卫视[ipv6] | [[BD]黑龙江卫视[ipv6]](https://epg.pw/stream/bba30e5caaeffff57cecd7e3145d77937bb135028de2be19ffe2f644858124ca.m3u8) |
 
-Updated at **Sun Dec 24 2023 01:18:57 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Dec 24 2023 08:19:41 GMT+0000 (Coordinated Universal Time)**
