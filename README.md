@@ -27,7 +27,7 @@
 | China National | <https://m3u.vodtv.cn/cn_n.m3u> <br> <https://m3u.vodtv.cn/txt/cn_n.txt> | [List for China National](https://m3u.vodtv.cn/list/cn_n.list) | 9 |
 | China Country | <https://m3u.vodtv.cn/cn_c.m3u> <br> <https://m3u.vodtv.cn/txt/cn_c.txt> | [List for China Country](https://m3u.vodtv.cn/list/cn_c.list) | 159 |
 | China Province | <https://m3u.vodtv.cn/cn_p.m3u> <br> <https://m3u.vodtv.cn/txt/cn_p.txt> | [List for China Province](https://m3u.vodtv.cn/list/cn_p.list) | 35 |
-| All | <https://m3u.vodtv.cn/all.m3u> <br> <https://m3u.vodtv.cn/txt/all.txt> | [List for All](https://m3u.vodtv.cn/list/all.list) | 1799 |
+| All | <https://m3u.vodtv.cn/all.m3u> <br> <https://m3u.vodtv.cn/txt/all.txt> | [List for All](https://m3u.vodtv.cn/list/all.list) | 1794 |
 | YueChan_Live IPTV | <https://m3u.vodtv.cn/ycl_iptv.m3u> <br> <https://m3u.vodtv.cn/txt/ycl_iptv.txt> | [List for YueChan_Live IPTV](https://m3u.vodtv.cn/list/ycl_iptv.list) | update failed |
 | YanG_1989 Gather | <https://m3u.vodtv.cn/y_g.m3u> <br> <https://m3u.vodtv.cn/txt/y_g.txt> | [List for YanG_1989 Gather](https://m3u.vodtv.cn/list/y_g.list) | 2562 |
 | YanG_1989 Adult | <https://m3u.vodtv.cn/y_a.m3u> <br> <https://m3u.vodtv.cn/txt/y_a.txt> | [List for YanG_1989 Adult](https://m3u.vodtv.cn/list/y_a.list) | 1210 |
@@ -38,7 +38,7 @@
 | iptv.org stream China CCTV | <https://m3u.vodtv.cn/o_s_cn_cctv.m3u> <br> <https://m3u.vodtv.cn/txt/o_s_cn_cctv.txt> | [List for iptv.org stream China CCTV](https://m3u.vodtv.cn/list/o_s_cn_cctv.list) | 22 |
 | iptv.org stream China CGTN | <https://m3u.vodtv.cn/o_s_cn_cgtn.m3u> <br> <https://m3u.vodtv.cn/txt/o_s_cn_cgtn.txt> | [List for iptv.org stream China CGTN](https://m3u.vodtv.cn/list/o_s_cn_cgtn.list) | 6 |
 
-Updated at **Mon Dec 25 2023 01:15:50 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Dec 25 2023 08:21:38 GMT+0000 (Coordinated Universal Time)**
 
 ## 🛠️ 工具
 

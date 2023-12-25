@@ -15,7 +15,7 @@
 | 9 | [SD]厦门卫视 | [[SD]厦门卫视](https://epg.pw/stream/323e6ce17313134e899100bd11b4029fdc609e7539e22465f60470841b30fae0.ctv) |
 | 10 | [BD]广东卫视 | [[BD]广东卫视](https://epg.pw/stream/23718014ee69495ab3ace3cc974c9da1b887a4eef6e698a2afabbbfa8afac0be.m3u8) |
 | 11 | [BD]广西卫视 | [[BD]广西卫视](https://epg.pw/stream/3899ee96bfc51a8e53baa9d48c86b9b9a52907112fffcb33e94df2c05cc02d3c.m3u8) |
-| 12 | [VGA]新疆卫视 | [[VGA]新疆卫视](https://epg.pw/stream/369d82e2913254f5a712ca6bcb0931176462d5a46be06f9771cdcf93f7f35cdb.m3u8) |
+| 12 | [SD]新疆卫视 | [[SD]新疆卫视](https://epg.pw/stream/369d82e2913254f5a712ca6bcb0931176462d5a46be06f9771cdcf93f7f35cdb.m3u8) |
 | 13 | [BD]旅游卫视[ipv6] | [[BD]旅游卫视[ipv6]](https://epg.pw/stream/0a7895ab7d245925f9fe1bdcb3714e269b6ce032323f8acc84b36071893c0d78.m3u8) |
 | 14 | [BD]东南卫视[ipv6] | [[BD]东南卫视[ipv6]](https://epg.pw/stream/d3a633f9603e282ecb78c53b3220a5cc6d4ae302a789711407a0794bc0c79c00.m3u8) |
 | 15 | [BD]东方卫视[ipv6] | [[BD]东方卫视[ipv6]](https://epg.pw/stream/96fb4677915219a69c151563855a231f0b7d6e7392e403e66e40af920843cb68.m3u8) |
@@ -40,4 +40,4 @@
 | 34 | [BD]青海卫视[ipv6] | [[BD]青海卫视[ipv6]](https://epg.pw/stream/2964d19f90db133cc91764d218fac62d82033d21e90e22e2cd788fca54f74120.m3u8) |
 | 35 | [BD]黑龙江卫视[ipv6] | [[BD]黑龙江卫视[ipv6]](https://epg.pw/stream/bba30e5caaeffff57cecd7e3145d77937bb135028de2be19ffe2f644858124ca.m3u8) |
 
-Updated at **Mon Dec 25 2023 01:15:50 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Dec 25 2023 08:21:38 GMT+0000 (Coordinated Universal Time)**
