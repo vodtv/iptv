@@ -2826,7 +2826,7 @@ Telepace Roma (720p),https://live.mariatvcdn.com/mariatvpoint/d36592901d5429dd7f
 Telepace Trento (540p),https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8
 Telepacífico (1080p) [Not 24/7],https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 TelePaks (396p),https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8
-Teleplay Sureste (360p),https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8
+Teleplay Sureste (720p),https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/playlist.m3u8
 TeleProgreso (720p),https://stmv1.zcasthn.com.br/4848/4848/playlist.m3u8
 TeleRadioNorte (720p),https://angelistic.live:3785/live/tvoficiallive.m3u8
 TeleRadyo (720p) [Not 24/7],https://ythls.armelin.one/channel/UCs_VNu-FQ0WcJnD4QkmIL5w.m3u8

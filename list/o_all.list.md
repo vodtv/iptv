@@ -2831,7 +2831,7 @@
 | 2825 | Telepace Trento (540p) | [Telepace Trento (540p)](https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8) |
 | 2826 | Telepacífico (1080p) [Not 24/7] | [Telepacífico (1080p) [Not 24/7]](https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8) |
 | 2827 | TelePaks (396p) | [TelePaks (396p)](https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8) |
-| 2828 | Teleplay Sureste (360p) | [Teleplay Sureste (360p)](https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8) |
+| 2828 | Teleplay Sureste (720p) | [Teleplay Sureste (720p)](https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/playlist.m3u8) |
 | 2829 | TeleProgreso (720p) | [TeleProgreso (720p)](https://stmv1.zcasthn.com.br/4848/4848/playlist.m3u8) |
 | 2830 | TeleRadioNorte (720p) | [TeleRadioNorte (720p)](https://angelistic.live:3785/live/tvoficiallive.m3u8) |
 | 2831 | TeleRadyo (720p) [Not 24/7] | [TeleRadyo (720p) [Not 24/7]](https://ythls.armelin.one/channel/UCs_VNu-FQ0WcJnD4QkmIL5w.m3u8) |
@@ -4136,4 +4136,4 @@
 | 4130 | Херсон Плюс (576p) | [Херсон Плюс (576p)](http://46.175.163.130/ks_plus/index.m3u8) |
 | 4131 | Առաջին ալիք (1080p) | [Առաջին ալիք (1080p)](https://amtv1.livestreamingcdn.com/am2abr/index.m3u8) |
 
-Updated at **Sun Dec 24 2023 08:19:41 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Dec 25 2023 01:15:50 GMT+0000 (Coordinated Universal Time)**
