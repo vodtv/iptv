@@ -2567,4 +2567,4 @@
 | 2561 | 足球超级猎食者(上) | [足球超级猎食者(上)](https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/4d0dc6b22b8e48efa4a984ec990a4faf/1200.m3u8) |
 | 2562 | 足球超级猎食者(下) | [足球超级猎食者(下)](https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/d7aec4db75da469d915a5dd7a0fb3d70/1200.m3u8) |
 
-Updated at **Tue Dec 26 2023 01:12:48 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Dec 26 2023 08:20:50 GMT+0000 (Coordinated Universal Time)**
