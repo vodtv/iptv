@@ -32,7 +32,7 @@
 | 26 | [BD]上虞新闻综合 | [[BD]上虞新闻综合](https://epg.pw/stream/c263e1828b4fb93d5bff50bf91136b93920a674c1bd19ccf1e4922baecfc3acc.m3u8) |
 | 27 | [BD]之江纪录 | [[BD]之江纪录](https://epg.pw/stream/b54488b3d7492fc39f975f3393ec9c4d3b6055efbea9a3140631d6aebfded766.m3u8) |
 | 28 | [BD]五星体育[ipv6] | [[BD]五星体育[ipv6]](https://epg.pw/stream/031acdbb137226f0c022242be1f31a039d40acf487f2c4b6fa6b40d6eb55f3f4.m3u8) |
-| 29 | [SD]优漫卡通 | [[SD]优漫卡通](https://epg.pw/stream/5aa56206f1fe7cc4d9507d553c47e53ea9c0ef79c6b52d3f3e1baa01ecfcaf63.m3u8) |
+| 29 | [VGA]优漫卡通 | [[VGA]优漫卡通](https://epg.pw/stream/5aa56206f1fe7cc4d9507d553c47e53ea9c0ef79c6b52d3f3e1baa01ecfcaf63.m3u8) |
 | 30 | [BD]内蒙古文体娱乐 | [[BD]内蒙古文体娱乐](https://epg.pw/stream/3e3a5613a7d58aabfefe76df40a9f69517a73afc939cb080ebcd56723a461cc0.m3u8) |
 | 31 | [BD]内蒙古新闻综合 | [[BD]内蒙古新闻综合](https://epg.pw/stream/d7aa1346ac7eb6557177de5d526cbf5ca3f027ffa89d3f95472c1f6c5b8a5b2c.m3u8) |
 | 32 | [BD]内蒙古经济生活 | [[BD]内蒙古经济生活](https://epg.pw/stream/15b68111ae34d993d7b93a271508a997b3410ab2a8e9b98543d831295c3e35bf.m3u8) |
@@ -70,7 +70,7 @@
 | 64 | [BD]安徽综艺 | [[BD]安徽综艺](https://epg.pw/stream/af542df52a4128f36bece82b0a65ccd7cf8db5dc36951fe04bd4e656d08f6e0e.m3u8) |
 | 65 | [SD]宁夏卫视 | [[SD]宁夏卫视](https://epg.pw/stream/36d06a642456bafe7043aaed3e01dd7557dba0fb2072c40a91ae029700665b25.m3u8) |
 | 66 | [HD]咸宁经济生活 | [[HD]咸宁经济生活](https://epg.pw/stream/a54e5bea2c05e2aa3f7c76eda34ffd95cfdf2e5ff9c0aa5ac284e34d8a512ea3.m3u8) |
-| 67 | [HD]山东教育 | [[HD]山东教育](https://epg.pw/stream/5d23c2d55bf72be1537a0eafcd443bad151f40f0bd3e87c51be9fa8c13b624fb.m3u8) |
+| 67 | [SD]山东教育 | [[SD]山东教育](https://epg.pw/stream/5d23c2d55bf72be1537a0eafcd443bad151f40f0bd3e87c51be9fa8c13b624fb.m3u8) |
 | 68 | [SD]山东教育卫视 | [[SD]山东教育卫视](https://epg.pw/stream/72b20fba447aa575919d1ae98e94032dbbb7e71c32bea0db7c127753cb208441.m3u8) |
 | 69 | [HD]山西公共 | [[HD]山西公共](https://epg.pw/stream/cf835305701c451e7e532c9dd04f082d81e7b46eadd4685d508e665c709fa2fb.ctv) |
 | 70 | [HD]山西影视 | [[HD]山西影视](https://epg.pw/stream/f96d8634d466c4f2220b1c85e0997b47a2c07a9d0771baafb66f7151b3d75ef8.ctv) |
@@ -164,4 +164,4 @@
 | 158 | [VGA]黑龙江新闻 | [[VGA]黑龙江新闻](https://epg.pw/stream/6fe0461d8f101b8f9da77bb21785e3224610d31b800c0bd5c86f9abdd8ab380f.m3u8) |
 | 159 | [HD]点掌财经 | [[HD]点掌财经](https://epg.pw/stream/96bec7b1f9d22ac90697af55775bf2328443600cdc5ac81952ca681c136f86f7.m3u8) |
 
-Updated at **Tue Dec 26 2023 08:20:50 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Dec 27 2023 01:13:08 GMT+0000 (Coordinated Universal Time)**

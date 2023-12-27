@@ -53,6 +53,8 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://fastly.jsdelivr.net/gh/drangjchen/IPTV@main/Logo/CNA-NEWS.png" group-title="国际",CNA新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="Newsmax" tvg-name="Newsmax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/512px-Newsmax_logo.svg.png" group-title="国际",Newsmax
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="NHK" tvg-name="NHK" tvg-logo="https://fastly.jsdelivr.net/gh/drangjchen/IPTV@main/Logo/NHK日本.png" group-title="国际",NHK世界
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 tvg-id="RTNews" tvg-name="RTNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="国际",RT新闻
@@ -67,7 +69,7 @@ https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CGTNDocumentary" tvg-name="CGTNDocumentary" tvg-logo="https://fastly.jsdelivr.net/gh/drangjchen/IPTV@main/Logo/环球纪录.png" group-title="国际",CGTN纪录
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://fastly.jsdelivr.net/gh/drangjchen/IPTV@main/Logo/北京卫视.png" group-title="卫视",北京卫视
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京卫视.png" group-title="卫视",北京卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001029/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://fastly.jsdelivr.net/gh/drangjchen/IPTV@main/Logo/东方卫视.png" group-title="卫视",东方卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001013/index.m3u8
@@ -123,14 +125,28 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001450/index.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8?icpid=3&RTS=1668604377&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="https://fastly.jsdelivr.net/gh/drangjchen/IPTV@main/Logo/云南卫视.png" group-title="卫视",云南卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001223/index.m3u8
+#EXTINF:-1 tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京新闻.png" group-title="地方",北京新闻
+http://iptv.8t.cx:8180/udp/239.3.1.159:8000
+#EXTINF:-1 tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京财经.png" group-title="地方",北京财经
+http://iptv.8t.cx:8180/udp/239.3.1.116:8000
+#EXTINF:-1 tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京生活.png" group-title="地方",北京生活
+http://iptv.8t.cx:8180/udp/239.3.1.117:8000
+#EXTINF:-1 tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京文艺.png" group-title="地方",北京文艺
+http://iptv.8t.cx:8180/udp/239.3.1.242:8000
+#EXTINF:-1 tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京影视.png" group-title="地方",北京影视
+http://iptv.8t.cx:8180/udp/239.3.1.158:8000
+#EXTINF:-1 tvg-id="北京国际" tvg-name="北京国际频道" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京国际.png" group-title="地方",北京国际
+http://iptv.8t.cx:8180/udp/239.3.1.235:8000
+#EXTINF:-1 tvg-id="体育休闲" tvg-name="北京体育休闲" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京体育休闲.png" group-title="地方",体育休闲
+http://iptv.8t.cx:8180/udp/239.3.1.243:8000
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京纪实科教.png" group-title="地方",纪实科教
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://raw.githubusercontent.com/Junior0679/IPTV/main/Logo/北京卡酷少儿.png" group-title="地方",卡酷少儿
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001245/index.m3u8
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://fastly.jsdelivr.net/gh/drangjchen/IPTV@main/Logo/中国教育.png" group-title="地方",中国教育
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001020/index.m3u8?
 #EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://fastly.jsdelivr.net/gh/drangjchen/IPTV@main/Logo/职教频道.png" group-title="地方",职教频道
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u8
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="https://fastly.jsdelivr.net/gh/drangjchen/IPTV@main/Logo/纪实科教.png" group-title="地方",纪实科教
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://fastly.jsdelivr.net/gh/drangjchen/IPTV@main/Logo/卡酷少儿.png" group-title="地方",卡酷少儿
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001245/index.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="https://fastly.jsdelivr.net/gh/drangjchen/IPTV@main/Logo/纪实人文.png" group-title="地方",纪实人文
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001019/index.m3u8
 #EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="https://fastly.jsdelivr.net/gh/drangjchen/IPTV@main/Logo/东方影视.png" group-title="地方",东方影视
