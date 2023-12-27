@@ -38,7 +38,7 @@
 | iptv.org stream China CCTV | <https://m3u.vodtv.cn/o_s_cn_cctv.m3u> <br> <https://m3u.vodtv.cn/txt/o_s_cn_cctv.txt> | [List for iptv.org stream China CCTV](https://m3u.vodtv.cn/list/o_s_cn_cctv.list) | 22 |
 | iptv.org stream China CGTN | <https://m3u.vodtv.cn/o_s_cn_cgtn.m3u> <br> <https://m3u.vodtv.cn/txt/o_s_cn_cgtn.txt> | [List for iptv.org stream China CGTN](https://m3u.vodtv.cn/list/o_s_cn_cgtn.list) | 6 |
 
-Updated at **Wed Dec 27 2023 01:13:09 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Dec 27 2023 08:20:30 GMT+0000 (Coordinated Universal Time)**
 
 ## 🛠️ 工具
 

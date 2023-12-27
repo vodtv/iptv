@@ -15,4 +15,4 @@
 | 9 | [BD]石狮综合 | [[BD]石狮综合](https://epg.pw/stream/611e94f85d8e7b5016b9f15490d511f1bb8efa643a13d82e6f57cd2606c312e7.m3u8) |
 | 10 | [BD]风云足球[ipv6] | [[BD]风云足球[ipv6]](https://epg.pw/stream/2f15d1c8f0acaa40abcbf0b5cab1d4011bf75bd775e650078108a7354dbf9dc0.m3u8) |
 
-Updated at **Wed Dec 27 2023 01:12:53 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Dec 27 2023 08:20:29 GMT+0000 (Coordinated Universal Time)**
