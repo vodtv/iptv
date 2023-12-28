@@ -27,4 +27,4 @@
 | 21 | CCTV-16奥林匹克 | [CCTV-16奥林匹克](https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K) |
 | 22 | CCTV-17农业农村 (1080p) | [CCTV-17农业农村 (1080p)](http://183.196.25.171:808/hls/93/index.m3u8) |
 
-Updated at **Wed Dec 27 2023 08:20:14 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Dec 28 2023 01:13:02 GMT+0000 (Coordinated Universal Time)**
