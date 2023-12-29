@@ -3520,10 +3520,10 @@
 | 3514 | Ростов-папа HD | [Ростов-папа HD](http://moobl.ru/hls/Rostov_papa_hd.m3u8) |
 | 3515 | РТР Планета | [РТР Планета](https://farm-vgtrk.rfn.ru/live/smil:rtrp.smil/playlist.m3u8) |
 | 3516 | РТР Планета Азия | [РТР Планета Азия](https://farm-vgtrk.rfn.ru/hls/planeta_rtr_asia/playlist.m3u8) |
-| 3517 | РТР Планета СНГ | [РТР Планета СНГ](https://farm-vgtrk.rfn.ru/hls/planeta_rtr_sng/playlist.m3u8) |
-| 3518 | РТР Планета США | [РТР Планета США](https://farm-vgtrk.rfn.ru/hls/planeta_rtr_usa/playlist.m3u8) |
-| 3519 | РТР-Планета Америка | [РТР-Планета Америка](http://moobl.ru/hls/RTR_Planeta_USA.m3u8) |
-| 3520 | РТР-Планета Европа | [РТР-Планета Европа](http://moobl.ru/hls/RTR_Planeta_Eu.m3u8) |
+| 3517 | РТР Планета Евро | [РТР Планета Евро](https://farm-vgtrk.rfn.ru/hls/planeta_rtr_euro/playlist.m3u8) |
+| 3518 | РТР Планета СНГ | [РТР Планета СНГ](https://farm-vgtrk.rfn.ru/hls/planeta_rtr_sng/playlist.m3u8) |
+| 3519 | РТР Планета США | [РТР Планета США](https://farm-vgtrk.rfn.ru/hls/planeta_rtr_usa/playlist.m3u8) |
+| 3520 | РТР-Планета Америка | [РТР-Планета Америка](http://moobl.ru/hls/RTR_Planeta_USA.m3u8) |
 | 3521 | Русский Бестселлер | [Русский Бестселлер](http://moobl.ru/hls/Russkiy_Bestseller.m3u8) |
 | 3522 | Русский детектив | [Русский детектив](http://moobl.ru/hls/Russkiy_detektiv.m3u8) |
 | 3523 | Русский Иллюзион | [Русский Иллюзион](http://moobl.ru/hls/Russky_illuzion.m3u8) |
@@ -4199,4 +4199,4 @@
 | 4193 | 龙口生活 (576p) | [龙口生活 (576p)](http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8) |
 | 4194 | 龙岩综合 (540p) | [龙岩综合 (540p)](http://stream.lytv.net.cn/2/sd/live.m3u8) |
 
-Updated at **Thu Dec 28 2023 08:21:13 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Dec 29 2023 01:04:17 GMT+0000 (Coordinated Universal Time)**

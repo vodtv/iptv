@@ -3515,10 +3515,10 @@ ZAD TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCOll3M-P7oKs5cSrQ9y
 Ростов-папа HD,http://moobl.ru/hls/Rostov_papa_hd.m3u8
 РТР Планета,https://farm-vgtrk.rfn.ru/live/smil:rtrp.smil/playlist.m3u8
 РТР Планета Азия,https://farm-vgtrk.rfn.ru/hls/planeta_rtr_asia/playlist.m3u8
+РТР Планета Евро,https://farm-vgtrk.rfn.ru/hls/planeta_rtr_euro/playlist.m3u8
 РТР Планета СНГ,https://farm-vgtrk.rfn.ru/hls/planeta_rtr_sng/playlist.m3u8
 РТР Планета США,https://farm-vgtrk.rfn.ru/hls/planeta_rtr_usa/playlist.m3u8
 РТР-Планета Америка,http://moobl.ru/hls/RTR_Planeta_USA.m3u8
-РТР-Планета Европа,http://moobl.ru/hls/RTR_Planeta_Eu.m3u8
 Русский Бестселлер,http://moobl.ru/hls/Russkiy_Bestseller.m3u8
 Русский детектив,http://moobl.ru/hls/Russkiy_detektiv.m3u8
 Русский Иллюзион,http://moobl.ru/hls/Russky_illuzion.m3u8
