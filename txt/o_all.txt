@@ -1310,7 +1310,6 @@ KTO (404p) [Not 24/7],https://live-kto.akamaized.net/hls/live/2033284/KTO/master
 KTOO 360TV 3 (FNX),https://cdn3.wowza.com/5/ODB6NmF5K3l4T1h5/persis/2147483647_360tv_247/playlist.m3u8
 KTRK TV News (720p),https://content.uplynk.com/channel/ext/1efe3bfc4d1e4b5db5e5085a535b510b/ktrk_24x7_news.m3u8
 Kudüs TV (480p),https://yayin.kudustv.com/981680400/kudustv/playlist.m3u8
-kugo Star (576i),https://alfa.kugo.id/playout/KugoStar.stream/playlist.m3u8
 Kulinar TV Show,http://moobl.ru/hls/Kulinar_tv.m3u8
 KulturMD (1080p),http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
 Kurd Channel (480p),https://kurd-channel.ikoflix.com/hls/stream_2.m3u8
@@ -1492,6 +1491,7 @@ LTV (720p),https://eitc3.secure2.footprint.net/hls/LTV.m3u8
 LTV (720p) [Not 24/7],https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8
 Lucania Channel (720p),http://wms.shared.streamshow.it/lucaniatv/lucaniatv/playlist.m3u8
 Lugansk 24 (1084p),https://tv.gtrklnr.ru/hls/Lugansk24.m3u8
+Luna Estéreo 106.4 FM (720p) [Not 24/7],https://servervideo.intermediacolombia.com:19360/kychbbfhdz/kychbbfhdz.m3u8
 Luna TV Canal 53 (1080p),https://streaming.ath.cx:1936/lunatv/lunatv/playlist.m3u8
 Luxe TV (1080p),https://alchimie-luxe-fr-rakuten.amagi.tv/playlist.m3u8
 Luz Naciente TV (720p),https://streeming.protoscr.com:3858/live/streeminglive.m3u8
@@ -1568,7 +1568,6 @@ Malabar News (720p) [Not 24/7],http://cloud.logicwebs.in:1935/live/malabarnews/p
 Málaga 24h (720p) [Not 24/7],https://ythls.armelin.one/channel/UCoMWImnPAur6JhXDK63dpAg.m3u8
 Malaimurasu (720p) [Not 24/7],https://ythls.armelin.one/channel/UCXbufH95DIUqyAWSzeDI0JQ.m3u8
 Malbec Play (1080p),https://streamlov.alsolnet.com/malbecplay/live/playlist.m3u8
-Maleo (576i),https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
 Malta (720p) [Not 24/7],https://webtvstream.bhtelecom.ba/malta.m3u8
 Maná Church Online (1080p) [Not 24/7],https://w2.manasat.com/church-online/smil:church-online.smil/playlist.m3u8
 Maná Cirkev Online (1080p) [Not 24/7],https://w2.manasat.com/cirkev-online/smil:cirkev-online.smil/playlist.m3u8
@@ -2677,6 +2676,7 @@ Super Channel 12 (1080p),https://servilive.com:3263/live/channel12live.m3u8
 Super Classics TV (360p),https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
 Super J TV (720p),https://54627d4fc5996.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8
 Super Kaos TV (360p),https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
+Súper Q Panamá (1080p),https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8
 Super Radyo DZBB (720p) [Not 24/7],https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 Super Tennis (1080p),https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
 Super Truck Français,https://ythls.armelin.one/channel/UC4u2o6tyE4vTrErXY9AN6Rw.m3u8
@@ -2791,7 +2791,7 @@ Telemax (720p),http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3
 Telemax (1080p),https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
 Telemax (XEWH-TDT) (1080p),http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
 Telemedellín (720p),https://d3cglye48cl6m2.cloudfront.net/out/v1/37d85e2ab37c4873aed6849fe74e78b8/index.m3u8
-Telemetro (720p),https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
+Telemetro (720p) [Not 24/7],https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
 TeleMia (576p),https://playerssl.telemia.tv/fileadmin/hls/TelemiaHD/telemia85_mediachunks.m3u8
 TeleMia Extra (576p),https://playerssl.telemia.tv/fileadmin/hls/TelemiaExtra/telemiaextra_mediachunks.m3u8
 Telemicro (480p),http://51.81.93.239:8084/hls/tmicro.m3u8
@@ -3000,6 +3000,7 @@ TN Todo Noticias (1080p),https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 TNE (720p) [Not 24/7],https://v2.tustreaming.cl/tnetv/index.m3u8
 TNI Canal51 (720p) [Not 24/7],https://ss5.domint.net:3188/tni_str/tni51/playlist.m3u8
 TRK Krug (576p),http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr/krugod/krugod/playlist.m3u8
+Tropi Q 99.7 FM (1080p),https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8
 Tropical Moon Cumbia TV (720p),https://srv2.tropicalmoonmedia.com/cumbiatv/cumbiatv/playlist.m3u8
 Tropical Moon Eventos TV (720p),https://srv2.tropicalmoonmedia.com/eventostv/eventostv/playlist.m3u8
 Tropical Moon Salsa TV (720p),https://srv.tropicalmoonmedia.com/musictv/musictv/playlist.m3u8
