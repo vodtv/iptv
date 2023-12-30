@@ -24,8 +24,8 @@
 | fanmingming/live ipv6 | <https://m3u.vodtv.cn/fmml_ipv6.m3u> <br> <https://m3u.vodtv.cn/txt/fmml_ipv6.txt> | [List for fanmingming/live ipv6](https://m3u.vodtv.cn/list/fmml_ipv6.list) | 156 |
 | fanmingming/live v6 | <https://m3u.vodtv.cn/fmml_v6.m3u> <br> <https://m3u.vodtv.cn/txt/fmml_v6.txt> | [List for fanmingming/live v6](https://m3u.vodtv.cn/list/fmml_v6.list) | 113 |
 | China | <https://m3u.vodtv.cn/cn.m3u> <br> <https://m3u.vodtv.cn/txt/cn.txt> | [List for China](https://m3u.vodtv.cn/list/cn.list) | 174 |
-| China National | <https://m3u.vodtv.cn/cn_n.m3u> <br> <https://m3u.vodtv.cn/txt/cn_n.txt> | [List for China National](https://m3u.vodtv.cn/list/cn_n.list) | 7 |
-| China Country | <https://m3u.vodtv.cn/cn_c.m3u> <br> <https://m3u.vodtv.cn/txt/cn_c.txt> | [List for China Country](https://m3u.vodtv.cn/list/cn_c.list) | 167 |
+| China National | <https://m3u.vodtv.cn/cn_n.m3u> <br> <https://m3u.vodtv.cn/txt/cn_n.txt> | [List for China National](https://m3u.vodtv.cn/list/cn_n.list) | 6 |
+| China Country | <https://m3u.vodtv.cn/cn_c.m3u> <br> <https://m3u.vodtv.cn/txt/cn_c.txt> | [List for China Country](https://m3u.vodtv.cn/list/cn_c.list) | 165 |
 | China Province | <https://m3u.vodtv.cn/cn_p.m3u> <br> <https://m3u.vodtv.cn/txt/cn_p.txt> | [List for China Province](https://m3u.vodtv.cn/list/cn_p.list) | 35 |
 | All | <https://m3u.vodtv.cn/all.m3u> <br> <https://m3u.vodtv.cn/txt/all.txt> | [List for All](https://m3u.vodtv.cn/list/all.list) | 1775 |
 | YueChan_Live IPTV | <https://m3u.vodtv.cn/ycl_iptv.m3u> <br> <https://m3u.vodtv.cn/txt/ycl_iptv.txt> | [List for YueChan_Live IPTV](https://m3u.vodtv.cn/list/ycl_iptv.list) | update failed |
@@ -38,7 +38,7 @@
 | iptv.org stream China CCTV | <https://m3u.vodtv.cn/o_s_cn_cctv.m3u> <br> <https://m3u.vodtv.cn/txt/o_s_cn_cctv.txt> | [List for iptv.org stream China CCTV](https://m3u.vodtv.cn/list/o_s_cn_cctv.list) | 22 |
 | iptv.org stream China CGTN | <https://m3u.vodtv.cn/o_s_cn_cgtn.m3u> <br> <https://m3u.vodtv.cn/txt/o_s_cn_cgtn.txt> | [List for iptv.org stream China CGTN](https://m3u.vodtv.cn/list/o_s_cn_cgtn.list) | 6 |
 
-Updated at **Sat Dec 30 2023 01:12:26 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Dec 30 2023 08:19:47 GMT+0000 (Coordinated Universal Time)**
 
 ## 🛠️ 工具
 
