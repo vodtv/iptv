@@ -6,9 +6,12 @@
 | --- | ------------ | --- |
 | 1 | [HD]cctv-4中文国际 | [[HD]cctv-4中文国际](https://epg.pw/stream/e9df8fe337dd6bacbf98516a34c0b0c94b3d2a02339529dea3de3769add35fc9.m3u8) |
 | 2 | [SD]cctv-4中文国际 | [[SD]cctv-4中文国际](https://epg.pw/stream/c3b4c0fa59357628b823a008e742caa5e3ea18df81216adbc62f3aa7afe556f0.m3u8) |
-| 3 | [BD]cctv8k超高清[ipv6] | [[BD]cctv8k超高清[ipv6]](https://epg.pw/stream/12c4722b400606e9f17e446f03738627390aa03e60b7cea9a4fe15016cc6e079.m3u8) |
-| 4 | [SD]发现之旅 | [[SD]发现之旅](https://epg.pw/stream/7cc7f757127592992b21f9768ff45940344d7049190add19359f61a05b3cf3a1.ctv) |
-| 5 | [BD]石狮综合 | [[BD]石狮综合](https://epg.pw/stream/611e94f85d8e7b5016b9f15490d511f1bb8efa643a13d82e6f57cd2606c312e7.m3u8) |
-| 6 | [BD]风云足球 | [[BD]风云足球](https://epg.pw/stream/4e8243a55098156e8ce6d9b2c3173fee20e6ef67a64808938feba9e6b2965dac.m3u8) |
+| 3 | [BD]cctv女性时尚[ipv6] | [[BD]cctv女性时尚[ipv6]](https://epg.pw/stream/cf279ef7e5a1bdd1a49ec181b01cf882d17af7de376bf1f028bceba570cdb661.m3u8) |
+| 4 | [BD]cctv风云足球[ipv6] | [[BD]cctv风云足球[ipv6]](https://epg.pw/stream/122835fa915406615737ceb261f638f27e4101526191b85c281580274a185862.m3u8) |
+| 5 | [BD]cctv风云音乐[ipv6] | [[BD]cctv风云音乐[ipv6]](https://epg.pw/stream/1fb1205c93c4029eeebd219d3dc6898df1514b4dc5df4562e3748dbda97f82be.m3u8) |
+| 6 | [BD]cctv8k超高清[ipv6] | [[BD]cctv8k超高清[ipv6]](https://epg.pw/stream/12c4722b400606e9f17e446f03738627390aa03e60b7cea9a4fe15016cc6e079.m3u8) |
+| 7 | [SD]发现之旅 | [[SD]发现之旅](https://epg.pw/stream/7cc7f757127592992b21f9768ff45940344d7049190add19359f61a05b3cf3a1.ctv) |
+| 8 | [BD]石狮综合 | [[BD]石狮综合](https://epg.pw/stream/611e94f85d8e7b5016b9f15490d511f1bb8efa643a13d82e6f57cd2606c312e7.m3u8) |
+| 9 | [BD]风云足球[ipv6] | [[BD]风云足球[ipv6]](https://epg.pw/stream/429f44be8f007cfd67bf72ba165eb20871064218965c65efd1207c1c112b371c.m3u8) |
 
-Updated at **Sun Dec 31 2023 08:19:57 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jan 01 2024 01:21:30 GMT+0000 (Coordinated Universal Time)**
