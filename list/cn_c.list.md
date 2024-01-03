@@ -35,7 +35,7 @@
 | 29 | [BD]内蒙古农牧 | [[BD]内蒙古农牧](https://epg.pw/stream/f426a12024c3d2a6271d7b4e1514b8da71aeef77a9033c211e1e49a8386a8668.m3u8) |
 | 30 | [BD]全纪实台 | [[BD]全纪实台](https://epg.pw/stream/576fd291af0f2e5c1f7d917bc1c1467cccd825e43927cde7445ae46600708c0c.m3u8) |
 | 31 | [SD]兵团卫视 | [[SD]兵团卫视](https://epg.pw/stream/d84efa5eb598b5211d873bf4c345d5e25800edcf2b6cea4cc78e5c909b15b625.ctv) |
-| 32 | [HD]动作影院 | [[HD]动作影院](https://epg.pw/stream/42ed3ee461afcccb99711962e0c1aa0f4705d5fb49d5b8dd6a83d712f629f8f0.ctv) |
+| 32 | [SD]动作影院 | [[SD]动作影院](https://epg.pw/stream/42ed3ee461afcccb99711962e0c1aa0f4705d5fb49d5b8dd6a83d712f629f8f0.ctv) |
 | 33 | [BD]劲爆体育 | [[BD]劲爆体育](https://epg.pw/stream/5c9f8deb5d2b8a259adb635f16239674f23d6075bb3713aa4795a8a7ecb34f52.m3u8) |
 | 34 | [BD]动漫秀场 | [[BD]动漫秀场](https://epg.pw/stream/ca411be8f82bf17d3a956ffaf09b072a27ff9d9bb0d83fa3cae307eef53b6a68.ctv) |
 | 35 | [BD]北京纪实8k | [[BD]北京纪实8k](https://epg.pw/stream/544cc09b12f4a7e88dcf6d03ac6f42925ce17749273bdc3f324897c1593df622.m3u8) |
@@ -103,7 +103,7 @@
 | 97 | [SD]武汉少儿 | [[SD]武汉少儿](https://epg.pw/stream/27cd1eac8d351cc84757c70d2e26ed14cb26bb6c81a7c33b569d083b99db4129.m3u8) |
 | 98 | [HD]武汉教育 | [[HD]武汉教育](https://epg.pw/stream/c5bc53591db0451f2626ddff43e2de1460de1cbb8d7225d9d8c45e9660e9cb51.m3u8) |
 | 99 | [VGA]武汉文体 (480p) | [[VGA]武汉文体 (480p)](https://epg.pw/stream/b5e5c2bf78a8bed49158096472f899ffe30bc2a0ca4ac0471778b117308ec49b.m3u8) |
-| 100 | [HD]武汉新闻综合 | [[HD]武汉新闻综合](https://epg.pw/stream/277c2b350a2b37b80dd8a4b766d55c7bf7b44e2b0cdfbe38024cf5803f80ace4.m3u8) |
+| 100 | [VGA]武汉新闻综合 | [[VGA]武汉新闻综合](https://epg.pw/stream/277c2b350a2b37b80dd8a4b766d55c7bf7b44e2b0cdfbe38024cf5803f80ace4.m3u8) |
 | 101 | [HD]武汉经济 (360p) | [[HD]武汉经济 (360p)](https://epg.pw/stream/60692e28a9cf28d4d2bc7f266c2bca9418f30b3ffdc15f5f702871690d35acfa.m3u8) |
 | 102 | [SD]河北武汉电视剧 | [[SD]河北武汉电视剧](https://epg.pw/stream/456f2251ba309946a1b4954299fa7941150642941c69ef7224f888c4803834df.m3u8) |
 | 103 | [BD]武术世界 | [[BD]武术世界](https://epg.pw/stream/3b602b9a463136db096066c04bdfbac7f6bad519f824fdda60b2028c8d277950.m3u8) |
@@ -136,7 +136,7 @@
 | 130 | [BD]福建经济生活 | [[BD]福建经济生活](https://epg.pw/stream/0aa42e8a16095929792f32c76f3d6c032d81afdb7d436998919b0dcbed5572bc.ctv) |
 | 131 | [BD]福建电视剧 | [[BD]福建电视剧](https://epg.pw/stream/a49defbabc41f05d688a9b69b9e46ab330225b1ebb222041470bafb3e4610a9e.ctv) |
 | 132 | [BD]福建体育 | [[BD]福建体育](https://epg.pw/stream/d554cfc516cbeadc65a4bb631b464fd6fe6cb5cb844851bef27c5edc0681ec45.ctv) |
-| 133 | [BD]第一财经[ipv6] | [[BD]第一财经[ipv6]](https://epg.pw/stream/34bf6946fa5dc33632ff8bbd45ea1356adb3fb17ddd977b85c7cdf6073a0196a.m3u8) |
+| 133 | [BD]第一财经 | [[BD]第一财经](https://epg.pw/stream/63130d80f95b886c9cf36daad57424b42b19018b62bd3e9490d26d3140ab5464.m3u8) |
 | 134 | [SD]绍兴新闻综合 | [[SD]绍兴新闻综合](https://epg.pw/stream/0c479cc20f3eb20b09af243763f3f347b95748ccf86126cf662483e9a75c2e3c.m3u8) |
 | 135 | [VGA]自贡综合 | [[VGA]自贡综合](https://epg.pw/stream/19e8bff2178c99aacf62481ac205d6a00c442a9eaf07238a7c6e96d4beaa5da0.ctv) |
 | 136 | [HD]蓬安新闻综合 | [[HD]蓬安新闻综合](https://epg.pw/stream/8c5ee0bba6ced1dbcc2a892b8fe4aaaa2a0dcf75e0d618cb21a0944508a5692d.m3u8) |
@@ -163,4 +163,4 @@
 | 157 | [VGA]黑龙江新闻 | [[VGA]黑龙江新闻](https://epg.pw/stream/6fe0461d8f101b8f9da77bb21785e3224610d31b800c0bd5c86f9abdd8ab380f.m3u8) |
 | 158 | [HD]点掌财经 | [[HD]点掌财经](https://epg.pw/stream/96bec7b1f9d22ac90697af55775bf2328443600cdc5ac81952ca681c136f86f7.m3u8) |
 
-Updated at **Wed Jan 03 2024 01:14:58 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jan 03 2024 08:21:43 GMT+0000 (Coordinated Universal Time)**
