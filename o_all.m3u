@@ -3561,6 +3561,10 @@ https://hls.newworldtv.com/nw-magazine/video/live.m3u8
 https://ythls.armelin.one/channel/UCx7cFh63AWsK3cbfgX3GaaQ.m3u8
 #EXTINF:-1 tvg-id="NYXT.us" tvg-logo="https://i.imgur.com/KiIzWmO.jpg" group-title="Undefined",NYXT (1080p)
 https://reflect-stream-bronxnet.cablecast.tv/live-10/live/live.m3u8
+#EXTINF:-1 tvg-id="Ozbekiston24.uz" tvg-logo="https://i.imgur.com/VRFhKbw.png" group-title="Undefined",O'zbekiston 24 (480p)
+http://gohoski.fvds.ru:3000/mediabay/393/playlist.m3u8
+#EXTINF:-1 tvg-id="Ozbekiston.uz" tvg-logo="https://i.imgur.com/QUIIhTD.png" group-title="Undefined",O'zbekiston (480p)
+http://gohoski.fvds.ru:3000/mediabay/140/playlist.m3u8
 #EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/One_America_News_Network_logo.svg/512px-One_America_News_Network_logo.svg.png" group-title="News",OAN (1080p)
 https://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="OANEncore.us" tvg-logo="https://i.imgur.com/9S4ZbPL.jpg" group-title="News",OAN Encore (720p)
@@ -6511,6 +6515,8 @@ https://svt2-c.akamaized.net/se/svt2/master.m3u8
 https://svtb-c.akamaized.net/se/svtb/master.m3u8
 #EXTINF:-1 tvg-id="Kunskapskanalen.se" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kunskapskanalen_2017.svg/512px-Kunskapskanalen_2017.svg.png" group-title="Undefined",SVT Kunskapskanalen (720p)
 https://svtk-c.akamaized.net/se/svtk/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",SwagJatt (720p)
+https://ssh101.bozztv.com/ssh101/swagjatt/playlist.m3u8
 #EXTINF:-1 tvg-id="SwamijiTVAmerican.at" tvg-logo="https://i.imgur.com/nrLcuzs.png" group-title="Outdoor",Swamiji TV American (1080p) [Not 24/7]
 https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SwamijiTVAustralian.at" tvg-logo="https://i.imgur.com/nrLcuzs.png" group-title="Outdoor",Swamiji TV Australian (1080p) [Not 24/7]
@@ -7111,6 +7117,8 @@ https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/torrance/G0057_005/playlist.m3u8
 https://api.new.livestream.com/accounts/2614936/events/10365077/live.m3u8
 #EXTINF:-1 tvg-id="TOSNews.jp" tvg-logo="https://i.imgur.com/JBkXyvj.jpg" group-title="News",TOS News (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UChx_y6aLWNkifSDUt2TVAzg.m3u8
+#EXTINF:-1 tvg-id="Toshkent.uz" tvg-logo="https://i.imgur.com/Z9R4nZg.png" group-title="Undefined",Toshkent (480p)
+http://gohoski.fvds.ru:3000/mediabay/136/playlist.m3u8
 #EXTINF:-1 tvg-id="TotalBhakti.in" tvg-logo="https://i.imgur.com/LPwRdmF.png" group-title="Undefined",Total Bhakti (1080p)
 https://d34z4embz0hjf6.cloudfront.net/out/v1/d55b3323a9f142638f897378f0b526fe/index.m3u8
 #EXTINF:-1 tvg-id="Totovision.gt" tvg-logo="https://totovision.net/wp-content/uploads/2022/05/cropped-LOGO-PAGINA-22.png" group-title="Undefined",Totovisión (720p)

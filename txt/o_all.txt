@@ -1780,6 +1780,8 @@ NW Info FR (576p),https://hls.newworldtv.com/nw-info/video/live.m3u8
 NW Magazine (576p),https://hls.newworldtv.com/nw-magazine/video/live.m3u8
 NYTV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCx7cFh63AWsK3cbfgX3GaaQ.m3u8
 NYXT (1080p),https://reflect-stream-bronxnet.cablecast.tv/live-10/live/live.m3u8
+O'zbekiston 24 (480p),http://gohoski.fvds.ru:3000/mediabay/393/playlist.m3u8
+O'zbekiston (480p),http://gohoski.fvds.ru:3000/mediabay/140/playlist.m3u8
 OAN (1080p),https://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 OAN Encore (720p),https://cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore.m3u8
 Oasis RTV (720p) [Not 24/7],https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
@@ -3255,6 +3257,7 @@ SVT1 (720p),https://svt1-c.akamaized.net/se/svt1/master.m3u8
 SVT2 (720p),https://svt2-c.akamaized.net/se/svt2/master.m3u8
 SVT24 (720p),https://svtb-c.akamaized.net/se/svtb/master.m3u8
 SVT Kunskapskanalen (720p),https://svtk-c.akamaized.net/se/svtk/master.m3u8
+SwagJatt (720p),https://ssh101.bozztv.com/ssh101/swagjatt/playlist.m3u8
 Swamiji TV American (1080p) [Not 24/7],https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8
 Swamiji TV Australian (1080p) [Not 24/7],https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8
 Swamiji TV European (1080p) [Not 24/7],https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
@@ -3555,6 +3558,7 @@ Toronto 360 TV (720p) [Not 24/7],http://cdn3.toronto360.tv:8081/toronto360/hd/pl
 Torrance CitiCABLE (Torrance CA) (360p),https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/torrance/G0057_005/playlist.m3u8
 Torrevisión (270p),https://api.new.livestream.com/accounts/2614936/events/10365077/live.m3u8
 TOS News (1080p) [Not 24/7],https://ythls.armelin.one/channel/UChx_y6aLWNkifSDUt2TVAzg.m3u8
+Toshkent (480p),http://gohoski.fvds.ru:3000/mediabay/136/playlist.m3u8
 Total Bhakti (1080p),https://d34z4embz0hjf6.cloudfront.net/out/v1/d55b3323a9f142638f897378f0b526fe/index.m3u8
 Totovisión (720p),https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
 Toxic Rap (1080p),http://82.118.0.14:8000/play/7/index.m3u8
