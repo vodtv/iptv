@@ -30,7 +30,7 @@
 | 24 | [BD]上海纪实[ipv6] | [[BD]上海纪实[ipv6]](https://epg.pw/stream/ffce52631a7268d90e3510b9d0992d5a2a5dfa4235056f5c77e70aeeda17337a.m3u8) |
 | 25 | [BD]上海纪实人文[ipv6] | [[BD]上海纪实人文[ipv6]](https://epg.pw/stream/5c0e19c90ae1672abb2670f246b74f7a426ed99fb1014108b9889942228ddf59.m3u8) |
 | 26 | [BD]上虞新闻综合 | [[BD]上虞新闻综合](https://epg.pw/stream/e63025abaea02e0d05819b11fe7e0db7abb525d2204b9ca0e62bde8ab371d68d.m3u8) |
-| 27 | [BD]五星体育[ipv6] | [[BD]五星体育[ipv6]](https://epg.pw/stream/4881181ce7c229726cc597354dcd8ac833357167c1f7af8b48b2d08267400041.m3u8) |
+| 27 | [BD]五星体育[ipv6] | [[BD]五星体育[ipv6]](https://epg.pw/stream/f1e2ae396a78c6e9ce02e394c0d82b65cb8e4a6b4df4673722a2f36685e07719.m3u8) |
 | 28 | [SD]优优宝贝 | [[SD]优优宝贝](https://epg.pw/stream/03fc4a873abddccb54f01763ae6695d071005b950c8aaea262d401d4618b6dcd.ctv) |
 | 29 | [SD]优漫卡通 | [[SD]优漫卡通](https://epg.pw/stream/dcff83d5325a1d9f7b72083706dbcd80a1bbdf39260c4c16f15089c8e81c0ecc.m3u8) |
 | 30 | [SD]先锋乒羽 | [[SD]先锋乒羽](https://epg.pw/stream/ed5df3ee52f13ed26f7bebddc5991da64f974e972585981df1f41640d145d2a9.ctv) |
@@ -165,4 +165,4 @@
 | 159 | [VGA]黑龙江新闻 | [[VGA]黑龙江新闻](https://epg.pw/stream/6fe0461d8f101b8f9da77bb21785e3224610d31b800c0bd5c86f9abdd8ab380f.m3u8) |
 | 160 | [HD]点掌财经 | [[HD]点掌财经](https://epg.pw/stream/96bec7b1f9d22ac90697af55775bf2328443600cdc5ac81952ca681c136f86f7.m3u8) |
 
-Updated at **Fri Jan 05 2024 01:15:39 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jan 05 2024 08:21:42 GMT+0000 (Coordinated Universal Time)**
