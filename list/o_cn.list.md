@@ -16,24 +16,19 @@
 | 10 | CCTV+ 2 (600p) [Not 24/7] | [CCTV+ 2 (600p) [Not 24/7]](https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8) |
 | 11 | CCTV-1 (1080p) | [CCTV-1 (1080p)](http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8) |
 | 12 | CCTV-2 (1080p) | [CCTV-2 (1080p)](http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8) |
-| 13 | CCTV-3综艺 (1080p) | [CCTV-3综艺 (1080p)](http://183.196.25.171:808/hls/75/index.m3u8) |
-| 14 | CCTV-4 (1080p) | [CCTV-4 (1080p)](http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8) |
-| 15 | CCTV-4 (1080p) | [CCTV-4 (1080p)](http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8) |
-| 16 | CCTV-4K超高清 | [CCTV-4K超高清](https://live.goodiptv.club/api/cqyx.php?id=CCTV4K) |
-| 17 | CCTV-5 (1080p) | [CCTV-5 (1080p)](http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8) |
-| 18 | CCTV-6电影 (1080p) | [CCTV-6电影 (1080p)](http://1.85.0.62:808/hls/6/index.m3u8) |
-| 19 | CCTV-7 (1080p) | [CCTV-7 (1080p)](http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8) |
-| 20 | CCTV-8 (1080p) | [CCTV-8 (1080p)](http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8) |
-| 21 | CCTV-9 (1080p) | [CCTV-9 (1080p)](http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8) |
-| 22 | CCTV-10 (1080p) | [CCTV-10 (1080p)](http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8) |
-| 23 | CCTV-11戏曲 (1080p) | [CCTV-11戏曲 (1080p)](http://183.196.25.171:808/hls/11/index.m3u8) |
-| 24 | CCTV-12社会与法制 (1080p) | [CCTV-12社会与法制 (1080p)](http://183.196.25.171:808/hls/12/index.m3u8) |
-| 25 | CCTV-13 (1080p) | [CCTV-13 (1080p)](http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8) |
-| 26 | CCTV-14 (1080p) | [CCTV-14 (1080p)](http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8) |
-| 27 | CCTV-15音乐 | [CCTV-15音乐](http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8) |
-| 28 | CCTV-16奥林匹克 | [CCTV-16奥林匹克](https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K) |
-| 29 | CCTV-17农业农村 (1080p) | [CCTV-17农业农村 (1080p)](http://183.196.25.171:808/hls/93/index.m3u8) |
-| 30 | CETV1 (576p) | [CETV1 (576p)](http://183.207.248.71/gitv/live1/G_CETV-1/G_CETV-1) |
-| 31 | CETV2 (576p) | [CETV2 (576p)](http://183.207.248.71/gitv/live1/G_CETV-2/G_CETV-2) |
+| 13 | CCTV-4 (1080p) | [CCTV-4 (1080p)](http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8) |
+| 14 | CCTV-4 (1080p) | [CCTV-4 (1080p)](http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8) |
+| 15 | CCTV-5 (1080p) | [CCTV-5 (1080p)](http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8) |
+| 16 | CCTV-6电影 (1080p) | [CCTV-6电影 (1080p)](http://1.85.0.62:808/hls/6/index.m3u8) |
+| 17 | CCTV-7 (1080p) | [CCTV-7 (1080p)](http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8) |
+| 18 | CCTV-8 (1080p) | [CCTV-8 (1080p)](http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8) |
+| 19 | CCTV-9 (1080p) | [CCTV-9 (1080p)](http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8) |
+| 20 | CCTV-10 (1080p) | [CCTV-10 (1080p)](http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8) |
+| 21 | CCTV-13 (1080p) | [CCTV-13 (1080p)](http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8) |
+| 22 | CCTV-14 (1080p) | [CCTV-14 (1080p)](http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8) |
+| 23 | CCTV-15音乐 | [CCTV-15音乐](http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8) |
+| 24 | CCTV-16 (1080p) | [CCTV-16 (1080p)](http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8) |
+| 25 | CETV1 (576p) | [CETV1 (576p)](http://183.207.248.71/gitv/live1/G_CETV-1/G_CETV-1) |
+| 26 | CETV2 (576p) | [CETV2 (576p)](http://183.207.248.71/gitv/live1/G_CETV-2/G_CETV-2) |
 
-Updated at **Thu Jan 04 2024 08:20:58 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jan 05 2024 01:15:39 GMT+0000 (Coordinated Universal Time)**
