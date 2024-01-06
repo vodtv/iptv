@@ -1239,6 +1239,8 @@ https://1740288887.rsc.cdn77.org/1740288887/index.m3u8
 https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
 #EXTINF:-1 tvg-id="CBETDT.ca" tvg-logo="https://i.imgur.com/NFts1uU.png" group-title="Undefined",CBC Windsor (CBET-DT)
 https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5.m3u8
+#EXTINF:-1 tvg-id="CBeebies.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/512px-CBeebies.svg.png" group-title="Kids",CBeebies (Poland) (576p)
+https://cdn-main.lolokoko.tv/CBeebies.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel5.th" tvg-logo="https://i.imgur.com/wOIaqg7.png" group-title="Undefined",Channel 5 (1080p)
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel5.sg" tvg-logo="https://i.imgur.com/9NKp5aV.png" group-title="Undefined",Channel 5
@@ -6116,7 +6118,7 @@ http://cdn.tvmatic.net/sport.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",SportsTVPlus
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/XSJFWT5YF4UTW38VBLGF/hls3/now_-1m_15s/m.m3u8
 #EXTINF:-1 tvg-id="SportyStuffTV.uk" tvg-logo="https://i.imgur.com/6s1YGSV.png" group-title="Sports",SportyStuff TV (1080p)
-https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/manifest.m3u8
+https://cdn.rtmp1.vodhosting.com/hls/SportyStuffTV.m3u8
 #EXTINF:-1 tvg-id="SPOTV2.kr" tvg-logo="https://i.imgur.com/YD8fbTH.png" group-title="Sports",SPOTV2 (1080p)
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
 #EXTINF:-1 tvg-id="SPOTV.kr" tvg-logo="https://i.imgur.com/HaoVsm5.png" group-title="Sports",SPOTV (1080p)
