@@ -279,6 +279,7 @@ Atameken Business (1080p) [Not 24/7],http://live-atameken.cdnvideo.ru/atameken/a
 ATB La Paz (614p) [Not 24/7],http://186.121.206.197/live/daniel/index.m3u8
 ATB Santa Cruz (720p) [Not 24/7],https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8
 ATD (1080p),http://46.99.146.236/0.m3u8
+Atesur (1080p) [Not 24/7],https://video2.getstreamhosting.com:19360/8032/8032.m3u8
 Atfal & Mawaheb TV (1080p),https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 ATG (432p),https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
 Atlanta Channel (720p),http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
@@ -835,7 +836,7 @@ Ekhon TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG
 Ekiz TV (1080p),http://live.mundogo.cl/mundo/EquizTV/index.m3u8
 Ekoturk,https://ekoturk.blutv.com/blutv_ekoturk2/live.m3u8
 Ekushey TV (480p),https://ekusheyserver.com/etvlivesn.m3u8
-Enlace (720p),https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-hd.smil/playlist.m3u8
+Enlace,https://livecdn.enlace.plus/enlace/smil:enlace-fhd.smil/playlist.m3u8
 Enlace Juvenil (720p),https://11554-1.b.cdn13.com/EJTV/smil:ejtv-hd.smil/playlist.m3u8
 Enlight News (1080p),https://live.enlightnews.com/live/enlightnews/tracks-v1a1/index.m3u8
 ESTV (420p),https://cloudfront44.lexanetwork.com:1344/relay01/HDE032.sdp/playlist.m3u8
@@ -2796,14 +2797,16 @@ Record TV SP (720p),https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720
 RecordTV,https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 RecordTV Europa (720p),https://live-recordeuropa.visioncdn.com/live/recordeuropa/master.m3u8
 Recuerdos Retro,https://593b04c4c5670.streamlock.net/8002/8002/playlist.m3u8
-Red Advenir (360p) [Not 24/7],http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
+Red ADvenir TV (360p) [Not 24/7],http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
 Red Apple 21 (Fairfax County Public Schools) (480p) [Not 24/7],https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
 Red Bull TV (1080p),https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 Red CCTV (480p),https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
 Red de Comunicación Regional (RCR) (720p) [Not 24/7],https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
 Red Digital (900p),https://59ce1298bfb98.streamlock.net/reddigital/reddigital/playlist.m3u8
+Red DTV (1080p),https://master.tucableip.com/dtvsc/playlist.m3u8
 Red Social Códi TV (360p),https://video.misistemareseller.com/redsocial/redsocial/playlist.m3u8
 Red TV (720p),https://live.rednet.rs/providus/redtv_multi.m3u8
+Red Uno (1080p) [Not 24/7],https://streamer03.digital.com.bo/session/4e839498-b325-47f7-987f-205b4831346f/2ap337/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
 Red+ (1080p),https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
 Redbox 1: Spotlight (1080p),https://spotlight-redbox.amagi.tv/playlist.m3u8
 Redbox 2: Comedy (1080p),https://comedy-redbox.amagi.tv/playlist.m3u8
@@ -3050,7 +3053,6 @@ Sportitalia Motori (720p),https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sim
 Sportitalia SoloCalcio,https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
 Sportitalia TV/Sportitalia/SI,https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
 Sportoutdoor.tv,https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
-Sports18 1 HD (1080p),https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 Sports Connect (720p),https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8
 Sports Italia,https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 Sports TV (720p),https://live.sportstv.com.tr/hls/low/sportstv.m3u8
@@ -3332,6 +3334,7 @@ TBN Africa (1080p),https://tbn-jw.cdn.vustreams.com/live/tbn-africa/live.isml/cc
 TBN Asia (360p),http://210.210.155.37/qwr9ew/s/s39/index.m3u8
 TBN Baltia (1080p),http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
 TBN East (720p),https://d7ge95bb03xsu.cloudfront.net/out/v1/0c95a89614194912834019fc37d741ef/tbn-freecast.m3u8
+TBN Enlace,https://tbn-jw.cdn.vustreams.com/live/enlace/live.isml/playlist.m3u8
 TBN España (576p),https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
 TBN Inspire (720p),https://tbn-jw.cdn.vustreams.com/live/inspire/live.isml/.m3u8
 TBN Nejat TV (720p),https://hls.nejat.live/hls/stream.m3u8
@@ -3363,6 +3366,7 @@ TDM Ou Mun Macau Ch. 91 (720p),http://61.244.22.4/ch1/ch1.live/playlist.m3u8
 TDM Sports Ch. 93 (720p),https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 TDN TV (1080p) [Not 24/7],https://liveurestreamingcomlive.cdn.ypt.me/62ec67ea435c6.m3u8
 TDS Televisión Departamental Sololá (1080p),https://tv.ideskhn.com:3343/live/tdssololalive.m3u8
+TDT Multimedia (720p),https://video01.kshost.com.br/juan6318/juan6318/playlist.m3u8
 TDtv (720p),https://cloudvideo.servers10.com:8081/8230/index.m3u8
 TDV TV (240p),https://stream.oursnetworktv.com/latin/TierraDeValientes/playlist.m3u8
 Te Lo Cuento y Que...!!! (360p),https://stmv1.cnarlatam.com/telocuento/telocuento/playlist.m3u8
@@ -3620,6 +3624,7 @@ Tu Canal TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCziREKwhu2KgoD
 Tu Kanal (1080p),http://45.33.63.98/hls/abdi.m3u8
 Tu Música HD (1080p),https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 Tu Pop Favorito,https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
+Tu Tv (720p) [Not 24/7],https://solo.disfrutaenlared.com:1936/tutv/tutv/playlist.m3u8
 Tu Universo TV (720p),https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
 TUDN (720p),https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 TUDN,https://unidfp-nlds135.global.ssl.fastly.net/nlds/univisionnow/udn/as/live/udn_hd_pc.m3u8?t1=
@@ -3651,6 +3656,7 @@ TV2 Øst (1080p),https://cdnapisec.kaltura.com/p/1953381/sp/195338100/playManife
 TV2 Séf (576p),http://194.76.186.33:8000/play/a02s/index.m3u8
 TV 2 Sport 1 (720p),https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 TV3 (1080p),https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
+TV3,https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/live.isml/.m3u8
 TV3CAT (1080p),https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
 TV3V (720p),https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8
 TV4 (360p),https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/bullheadcity/G0860_001/playlist.m3u8
@@ -4304,6 +4310,7 @@ VTV (480p) [Not 24/7],https://d1af06j591gh9u.cloudfront.net/VTVHN/e395935fa39597
 VTV (720p) [Not 24/7],https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8
 VTV (1080p),http://vtvstreaming.myvnc.com:1935/vtvlive/vmedia/chunklist.m3u8
 VTV Can Tho,https://vips-livecdn.fptplay.net/hda1/vtvcantho_vhls.smil/chunklist_b2500000.m3u8
+VTV Canal 17 (720p) [Not 24/7],https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8
 VTV Canal 32 (1080p),https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8
 VTV Füzesabony (720p),http://stream.nmih.hu:7960/live.m3u8
 VTV Mendoza (720p),https://5f700d5b2c46f.streamlock.net/vtvmendoza/vtvmendoza/playlist.m3u8
@@ -4354,6 +4361,20 @@ WB Kids Français,https://ythls.armelin.one/channel/UCqvIdlrnd4DCcqp2DZwaZYw.m3u
 WBBJ (Jackson TN) (432p),https://dai.google.com/linear/hls/event/HZ3JdLVcQ463l3b1BLXmmQ/master.m3u8
 WBC TV (1080p),https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
 WBS TV (720p),http://157.245.196.186/live/livestream.m3u8
+WBTV All Together,https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-All-Together-Now.m3u8
+WBTV At the Movies,https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-At-The-Movies.m3u8
+WBTV Crime scenes,https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Crime-Scenes.m3u8
+WBTV Family Rules,https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Family-Rules.m3u8
+WBTV How To,https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-How-To.m3u8
+WBTV Keeping It Real,https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Keeping-It-Real.m3u8
+WBTV Love and Marriage,https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Love-Marriage.m3u8
+WBTV Mysteries,https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Mysteries.m3u8
+WBTV Paws and Claws,https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Paws-Claws.m3u8
+WBTV Slice of Life,https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Slice-Life.m3u8
+WBTV Supernatural,https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Supernatural.m3u8
+WBTV Sweet Escapes,https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Sweet-Escapes.m3u8
+WBTV Watchlist,https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Watch-List.m3u8
+WBTV Welcome Home,https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-Welcome-Home.m3u8
 WCBI (Columbus MI) (720p),https://dai.google.com/linear/hls/event/qLrnhs3RQUa2zMw9UBkroQ/master.m3u8
 WCCA 194 Worcester MA (WCCA-TV) (480p),https://worcester.vod.castus.tv/live/ch1.m3u8
 WCCV-DT1 (CDM TV) (480p) [Not 24/7],http://205.164.56.130:1935/marcos536/marcos536/playlist.m3u8
@@ -4375,7 +4396,7 @@ WDR Fernsehen Münster (720p),https://wdrlokalzeit.akamaized.net/hls/live/201802
 WDR Fernsehen Siegen (720p),https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8
 WDR Fernsehen Wuppertal (720p),https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8
 We One Kerala (720p),http://kl.logicwebs.in:1935/sreemedia/sreemedia/playlist.m3u8
-Weathernation (720p),https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Weather-Nation.m3u8
+WeatherNation (720p),https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8
 WeatherNation (KCKS-LD6) (480p) [Not 24/7],https://cdn.igocast.com/channel6_hls/channel6_master.m3u8
 Weathernews (1080p),https://ythls.armelin.one/channel/UCNsidkYpIAQ4QaufptQBPHQ.m3u8
 Weatherspy,https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
