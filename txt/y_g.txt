@@ -3,14 +3,14 @@ Love Nrture 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m
 Fashion 4K「时尚」,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 影视 4K「移动」,http://111.11.123.37:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
+欢笑剧场4K,https://tv.iill.top/migu/hxjc
 8K测试「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 爱上4K 「IPV6」,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 4K 修复「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb15]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 纯享 4K「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
 SiTV欢笑剧场4K 「IPV6」,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 华数4K「IPV6」,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
-CCTV1 4K「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/PLTV/1/224/3221230805/1.m3u8
-CCTV5 4K「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
+CCTV3 4K「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
 CCTV16 4K「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 CCTV4K「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 CCTV8K「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
@@ -634,202 +634,66 @@ CCTV 4K,http://113.117.74.17:8081/hls/144/index.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-CCTV1,https://tv.iill.top/bestv/cctv1
-CCTV2,https://tv.iill.top/bestv/cctv2
-CCTV3,https://tv.iill.top/bestv/cctv3
-CCTV4,https://tv.iill.top/bestv/cctv4
-CCTV5,https://tv.iill.top/bestv/cctv5
-CCTV5+,https://tv.iill.top/bestv/cctv5p
-CCTV6,https://tv.iill.top/bestv/cctv6
-CCTV7,https://tv.iill.top/bestv/cctv7
-CCTV8,https://tv.iill.top/bestv/cctv8
-CCTV9,https://tv.iill.top/bestv/cctv9
-CCTV10,https://tv.iill.top/bestv/cctv10
-CCTV11,https://tv.iill.top/bestv/cctv11
-CCTV12,https://tv.iill.top/bestv/cctv12
-CCTV13,https://tv.iill.top/bestv/cctv13
-CCTV14,https://tv.iill.top/bestv/cctv14
-CCTV15,https://tv.iill.top/bestv/cctv15
-CCTV16,https://tv.iill.top/bestv/cctv16
-CCTV17,https://tv.iill.top/bestv/cctv17
-CETV1,https://tv.iill.top/bestv/cetv1
-CETV4,https://tv.iill.top/bestv/cetv4
-湖南卫视,https://tv.iill.top/bestv/hunws
-浙江卫视,https://tv.iill.top/bestv/zjws
-东方卫视,https://tv.iill.top/bestv/dfws
-江苏卫视,https://tv.iill.top/bestv/jsws
-四川卫视,https://tv.iill.top/bestv/scws
-北京卫视,https://tv.iill.top/bestv/bjws
-天津卫视,https://tv.iill.top/bestv/tjws
-辽宁卫视,https://tv.iill.top/bestv/lnws
-安徽卫视,https://tv.iill.top/bestv/ahws
-黑龙江卫视,https://tv.iill.top/bestv/hljws
-广西卫视,https://tv.iill.top/bestv/gxws
-广东卫视,https://tv.iill.top/bestv/gdws
-深圳卫视,https://tv.iill.top/bestv/szws
-湖北卫视,https://tv.iill.top/bestv/hubws
-吉林卫视,https://tv.iill.top/bestv/jlws
-山东卫视,https://tv.iill.top/bestv/sdws
-江西卫视,https://tv.iill.top/bestv/jxws
-河南卫视,https://tv.iill.top/bestv/hnws
-河北卫视,https://tv.iill.top/bestv/hbws
-甘肃卫视,https://tv.iill.top/bestv/gsws
-重庆卫视,https://tv.iill.top/bestv/cqws
-东南卫视,https://tv.iill.top/bestv/dnws
-云南卫视,https://tv.iill.top/bestv/ynws
-贵州卫视,https://tv.iill.top/bestv/gzws
-海南卫视,https://tv.iill.top/bestv/hnws
-五星体育,https://tv.iill.top/bestv/wxty
-东方财经,https://tv.iill.top/bestv/dfcj
-上海第一财经,https://tv.iill.top/bestv/dycj
-上海新闻综合,https://tv.iill.top/bestv/shxwzh
-上海都市,https://tv.iill.top/bestv/shds
-上海纪实,https://tv.iill.top/bestv/shjsrw
-东方影视,https://tv.iill.top/bestv/dfys
-华语影院,https://tv.iill.top/bestv/hyyy
-星光影院,https://tv.iill.top/bestv/xgyy
-谍战剧场,https://tv.iill.top/bestv/dzjc
-全球大片,https://tv.iill.top/bestv/qqdp
-热门剧场,https://tv.iill.top/bestv/rmjc
-都市剧场,https://tv.iill.top/bestv/dsjc
-卡酷少儿,https://tv.iill.top/bestv/bjkk
-炫动卡通,https://tv.iill.top/bestv/hhxd
-青春动漫,https://tv.iill.top/bestv/qcdm
-宝宝动画,https://tv.iill.top/bestv/bbdh
-动漫秀场,https://tv.iill.top/bestv/dmxc
-欢笑剧场,https://tv.iill.top/bestv/hxjc
-劲爆体育,https://tv.iill.top/bestv/jbty
-超级体育,https://tv.iill.top/bestv/cjty
-快乐垂钓,https://tv.iill.top/bestv/klcd
-金鹰纪实,https://tv.iill.top/bestv/jyjs
-戏曲精选,https://tv.iill.top/bestv/xqjx
-上海ICS,https://tv.iill.top/bestv/shics
-七彩戏剧,https://tv.iill.top/bestv/qcxj
-上海教育,https://tv.iill.top/bestv/shjy
-全纪实,https://tv.iill.top/bestv/qjs
-生活时尚,https://tv.iill.top/bestv/shss
-新视觉,https://tv.iill.top/bestv/xsj
-游戏风云,https://tv.iill.top/bestv/yxfy
-热门综艺,https://tv.iill.top/bestv/rmzy
-健康养生,https://tv.iill.top/bestv/jkys
-百变课堂,https://tv.iill.top/bestv/bbkt
-看天下精选,https://tv.iill.top/bestv/ktxjx
-电竞天堂,https://tv.iill.top/bestv/djtt
-陶瓷频道,https://tv.iill.top/bestv/tcpd
-北京纪实科教,https://tv.iill.top/bestv/bjjsk
-茶频道,https://tv.iill.top/bestv/cpd
-足球高清,https://tv.iill.top/bestv/zqpd
-法治天地,https://tv.iill.top/bestv/fztd
-金色学堂,https://tv.iill.top/bestv/jspd
-魅力足球,https://tv.iill.top/bestv/mlzq
-CCTV4K 超高清,https://tv.iill.top/cqyx/CCTV4K
-CCTV1 综合,https://tv.iill.top/cqyx/cctv1HD
-CCTV2 财经,https://tv.iill.top/cqyx/cctv2HD
-CCTV3 综艺,https://tv.iill.top/cqyx/cctv3HD
-CCTV4 中文国际,https://tv.iill.top/cqyx/cctv4HD
-CCTV5 体育,https://tv.iill.top/cqyx/cctv5HD
-CCTV6 电影,https://tv.iill.top/cqyx/cctv6HD
-CCTV7 国防军事,https://tv.iill.top/cqyx/cctv7HD
-CCTV8 电视剧,https://tv.iill.top/cqyx/cctv8HD
-CCTV9 纪录,https://tv.iill.top/cqyx/cctv9HD
-CCTV10 科教,https://tv.iill.top/cqyx/cctv10HD
-CCTV11 戏曲,https://tv.iill.top/cqyx/cctv11HD
-CCTV12 社会与法,https://tv.iill.top/cqyx/cctv12HD
-CCTV13 新闻,https://tv.iill.top/cqyx/CCTVNewsHD
-CCTV14 少儿,https://tv.iill.top/cqyx/cctvseHD
-CCTV15 音乐,https://tv.iill.top/cqyx/cctv15HD
-CCTV16 奥林匹克,https://tv.iill.top/cqyx/cctv16HD
-CCTV16 奥林匹克4K,https://tv.iill.top/cqyx/CCTV16_4K
-CCTV17 农业农村,https://tv.iill.top/cqyx/cctv17HD
-CGTN,https://tv.iill.top/cqyx/cgtnSD
-CETV1,https://tv.iill.top/cqyx/cetv-1SD
-CETV4,https://tv.iill.top/cqyx/cetv-4SD
-CCTV 文化精品,https://tv.iill.top/cqyx/yswhHD
-CCTV 怀旧剧场,https://tv.iill.top/cqyx/hjjcHD
-CCTV 第一剧场,https://tv.iill.top/cqyx/diyijuchangHD
-CCTV 风云剧场,https://tv.iill.top/cqyx/fyjcHD
-CCTV 风云音乐,https://tv.iill.top/cqyx/fyyyHD
-CCTV 央视台球,https://tv.iill.top/cqyx/ystqHD
-CCTV 风云足球,https://tv.iill.top/cqyx/fyzqHD
-CCTV 高尔夫网球,https://tv.iill.top/cqyx/golfHD
-CCTV 兵器科技,https://tv.iill.top/cqyx/bqkjHD
-江苏卫视,https://tv.iill.top/cqyx/jiangsuHD
-浙江卫视,https://tv.iill.top/cqyx/zhejiangHD
-东方卫视,https://tv.iill.top/cqyx/shanghaiHD
-深圳卫视,https://tv.iill.top/cqyx/shenzhenHD
-北京卫视,https://tv.iill.top/cqyx/beijingHD
-辽宁卫视,https://tv.iill.top/cqyx/liaoningHD
-天津卫视,https://tv.iill.top/cqyx/tianjinHD
-贵州卫视,https://tv.iill.top/cqyx/guizhouHD
-云南卫视,https://tv.iill.top/cqyx/yunnanSD
-东南卫视,https://tv.iill.top/cqyx/dongnanHD
-黑龙江卫视,https://tv.iill.top/cqyx/heilongjiangHD
-安徽卫视,https://tv.iill.top/cqyx/anhuiSD
-河北卫视,https://tv.iill.top/cqyx/hebeiSD
-江西卫视,https://tv.iill.top/cqyx/jiangxiHD
-湖北卫视,https://tv.iill.top/cqyx/hubeiSD
-海南卫视,https://tv.iill.top/cqyx/hainanSD
-吉林卫视,https://tv.iill.top/cqyx/jilinHD
-广西卫视,https://tv.iill.top/cqyx/guangxiHD
-内蒙古卫视,https://tv.iill.top/cqyx/neimengkuSD
-湖南卫视,https://tv.iill.top/cqyx/hunanHD
-广东卫视,https://tv.iill.top/cqyx/guangdongHD
-河南卫视,https://tv.iill.top/cqyx/henanHD
-山西卫视,https://tv.iill.top/cqyx/shanxiSD
-兵团卫视,https://tv.iill.top/cqyx/bingtuanSD
-宁夏卫视,https://tv.iill.top/cqyx/ningxia
-三沙卫视,https://tv.iill.top/cqyx/sanshaSD
-青海卫视,https://tv.iill.top/cqyx/qinghaiSD
-山东教育,https://tv.iill.top/cqyx/sdjiaoyuSD
-新疆卫视,https://tv.iill.top/cqyx/xinjiangSD
-西藏卫视,https://tv.iill.top/cqyx/xizangSD
-CHC动作电影,https://tv.iill.top/cqyx/chcdzdyHD
-CHC家庭影院,https://tv.iill.top/cqyx/chcjtyyHD
-CHC高清电影,https://tv.iill.top/cqyx/chcgqdyHD
-欢笑剧场4K,https://tv.iill.top/cqyx/hxjc_4K
-中国天气,https://tv.iill.top/cqyx/tianqiSD
-卡酷少儿,https://tv.iill.top/cqyx/bjkakuSD
-纪实科教,https://tv.iill.top/cqyx/bjayjsSD
-金鹰卡通,https://tv.iill.top/cqyx/jinyingSD
-生活时尚,https://tv.iill.top/cqyx/shenghuo
-都市剧场,https://tv.iill.top/cqyx/dsjcHD
-动漫秀场,https://tv.iill.top/cqyx/dmxcHD
-魅力足球,https://tv.iill.top/cqyx/mlzqHD
-游戏风云,https://tv.iill.top/cqyx/yxfyHD
-求索纪录,https://tv.iill.top/cqyx/qsjlHD
-百姓健康,https://tv.iill.top/cqyx/jiankangSD
-快乐垂钓,https://tv.iill.top/cqyx/klcdHD
-早期教育,https://tv.iill.top/cqyx/zaojiaoHD
-东方财经,https://tv.iill.top/cqyx/dfcj
-证券服务,https://tv.iill.top/cqyx/jiazheng
-书画,https://tv.iill.top/cqyx/shuhua
-新动漫,https://tv.iill.top/cqyx/dongman
-国学频道,https://tv.iill.top/cqyx/guoxue
-优优宝贝,https://tv.iill.top/cqyx/youxi
-中华特产,https://tv.iill.top/cqyx/techan
-环球奇观,https://tv.iill.top/cqyx/car
-生态环境,https://tv.iill.top/cqyx/shengtai
-四海钓鱼,https://tv.iill.top/cqyx/diaoyu
-发现之旅,https://tv.iill.top/cqyx/faxian
-车迷,https://tv.iill.top/cqyx/doxtv
-法治天地,https://tv.iill.top/cqyx/fazhi
-金色学堂,https://tv.iill.top/cqyx/jinse
-收藏天下,https://tv.iill.top/cqyx/soucang
-财富天下,https://tv.iill.top/cqyx/caifu
-女性时尚,https://tv.iill.top/cqyx/nvxing
-中学生,https://tv.iill.top/cqyx/qicai
-天元围棋,https://tv.iill.top/cqyx/weiqi
-先锋乒羽,https://tv.iill.top/cqyx/xianfeng
-环球旅游,https://tv.iill.top/cqyx/huanqiulvyou
-老故事,https://tv.iill.top/cqyx/gushi
-摄影频道,https://tv.iill.top/cqyx/sheying
-优购物,https://tv.iill.top/cqyx/yougouwu
-家家购物,https://tv.iill.top/cqyx/jjgw
-风尚购物,https://tv.iill.top/cqyx/fsgw
-聚鲨环球精选,https://tv.iill.top/cqyx/jusha
-中视购物,https://tv.iill.top/cqyx/ysgw
-家有购物,https://tv.iill.top/cqyx/jygw
-央广购物,https://tv.iill.top/cqyx/yggw
+CCTV1,https://tv.iill.top/migu/cctv1
+CCTV1,https://tv.iill.top/migu/cctv1b
+CCTV2,https://tv.iill.top/migu/cctv2
+CCTV3,https://tv.iill.top/migu/cctv3
+CCTV4,https://tv.iill.top/migu/cctv4
+CCTV4 欧洲,https://tv.iill.top/migu/cctv4o
+CCTV4 美洲,https://tv.iill.top/migu/cctv4a
+CCTV5,https://tv.iill.top/migu/cctv5
+CCTV5,https://tv.iill.top/migu/cctv5b
+CCTV5+,https://tv.iill.top/migu/cctv5p
+CCTV5+,https://tv.iill.top/migu/cctv5p2
+CCTV6,https://tv.iill.top/migu/cctv6
+CCTV7,https://tv.iill.top/migu/cctv7
+CCTV8,https://tv.iill.top/migu/cctv8
+CCTV9,https://tv.iill.top/migu/cctv9
+CCTV10,https://tv.iill.top/migu/cctv10
+CCTV11,https://tv.iill.top/migu/cctv11
+CCTV12,https://tv.iill.top/migu/cctv12
+CCTV13,https://tv.iill.top/migu/cctv13
+CCTV14,https://tv.iill.top/migu/cctv14
+CCTV15,https://tv.iill.top/migu/cctv15
+CCTV17,https://tv.iill.top/migu/cctv17
+CGTN西语,https://tv.iill.top/migu/cgtne
+CGTN阿语,https://tv.iill.top/migu/cgtna
+湖南卫视,https://tv.iill.top/migu/hunws
+江苏卫视,https://tv.iill.top/migu/jsws
+广东卫视,https://tv.iill.top/migu/gdws
+广东卫视,https://tv.iill.top/migu/gdws2
+大湾区卫视,https://tv.iill.top/migu/dwqws
+四川卫视,https://tv.iill.top/migu/scws
+北京卫视,https://tv.iill.top/migu/bjws
+东方卫视,https://tv.iill.top/migu/dfws
+东方卫视,https://tv.iill.top/migu/dfws2
+重庆卫视,https://tv.iill.top/migu/cqws
+吉林卫视,https://tv.iill.top/migu/jlws
+辽宁卫视,https://tv.iill.top/migu/lnws
+内蒙古卫视,https://tv.iill.top/migu/nmws
+宁夏卫视,https://tv.iill.top/migu/nxws
+甘肃卫视,https://tv.iill.top/migu/gsws
+青海卫视,https://tv.iill.top/migu/qhws
+陕西卫视,https://tv.iill.top/migu/sxws
+山东卫视,https://tv.iill.top/migu/sdws
+湖北卫视,https://tv.iill.top/migu/hubws
+江西卫视,https://tv.iill.top/migu/jxws
+西藏卫视,http://jh.d7g.cn/tv/xztv.php?id=0
+新疆卫视,https://tv.iill.top/migu/xjws
+西藏卫视,https://tv.iill.top/migu/xzws
+海南卫视,https://tv.iill.top/migu/hinws
+CHC家庭影院,https://tv.iill.top/migu/chcjtyy
+四海钓鱼,https://tv.iill.top/migu/shdy
+江苏教育,https://tv.iill.top/migu/jsjy
+山东教育卫视,https://tv.iill.top/migu/sdjy
+游戏风云,https://tv.iill.top/migu/yxfy
+东方购物,https://tv.iill.top/migu/dfgw
+之江纪录,https://tv.iill.top/migu/zjjl
+杭州综合,https://tv.iill.top/migu/hzzh
+杭州明珠,https://tv.iill.top/migu/hzmz
+杭州生活,https://tv.iill.top/migu/hzsh
+杭州影视,https://tv.iill.top/migu/hzys
+杭州少儿体育,https://tv.iill.top/migu/hzse
 「安徽」安徽经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8?zanhd
 「安徽」安徽影院,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8?zanhd
 「安徽」安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd

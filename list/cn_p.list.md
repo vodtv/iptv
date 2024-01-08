@@ -37,7 +37,7 @@
 | 31 | [BD]重庆卫视[ipv6] | [[BD]重庆卫视[ipv6]](https://epg.pw/stream/ab652effca726310b82c8a321edfa861029f896ef612cbed788dd4c907c075aa.m3u8) |
 | 32 | [SD]陕西卫视 | [[SD]陕西卫视](https://epg.pw/stream/a7b458a7ff6ccdd60304819323337e2835d8ea50887d423659e0eb0ec0118a65.ctv) |
 | 33 | [BD]云南卫视[ipv6] | [[BD]云南卫视[ipv6]](https://epg.pw/stream/368e59cc43274d4c5380dfd940d1f40ee03a4b9cb5b1648b01c42b47f2516d8b.m3u8) |
-| 34 | [BD]青海卫视[ipv6] | [[BD]青海卫视[ipv6]](https://epg.pw/stream/4b3cea3a8a9a815e94248b0d2a4e662c0ec589510ad6c8bf787efdde534148f4.m3u8) |
+| 34 | [SD]青海卫视 | [[SD]青海卫视](https://epg.pw/stream/bb84d47770b5abe3f2c560c48c7487b6acd6133bea36ff22f1f5af1304512ac0.ctv) |
 | 35 | [BD]黑龙江卫视 | [[BD]黑龙江卫视](https://epg.pw/stream/bba30e5caaeffff57cecd7e3145d77937bb135028de2be19ffe2f644858124ca.ctv) |
 
-Updated at **Sun Jan 07 2024 08:20:32 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jan 08 2024 01:17:02 GMT+0000 (Coordinated Universal Time)**
